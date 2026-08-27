@@ -1,0 +1,16 @@
+{
+    "schema":  "academy-update/v1",
+    "product":  "academy-platform",
+    "channel":  "stable",
+    "version":  "3.5.0",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.5.0/academy.zip",
+    "sha256":  "0f872c61a47496f000c85bc63315be7b15dffb4abd4a5d59153cdd5dda7cbada",
+    "size":  137991198,
+    "notes":  "R3.5.0: limpieza y reutilización segura de tarjetas dadas de baja; nueva cartera con vencidos, próximos a vencer, alumnos al corriente y pagos recientes; alertas internas con horario local, reglas administrables y limpieza configurable.",
+    "mandatory":  false,
+    "auto_install":  false,
+    "published_at":  "2026-08-27T16:56:39.5805961Z",
+    "package_format":  "academy-update-zip-v1",
+    "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
+    "signature":  "qSIQJuXkSaM3gwlKVyAPmeMG4TyrNfzTYlZRrU7+agSIwfMw98qPmLp1O1XGITWaKw2V8+9X6CrHOvO3golbivr1LTYqqDJGAaHJvuERKkbEr+HwNcnPemdyMMaHkT3D+z/wnso/XW2dOp4TOAtRXbsvQhX5ug0Si3WFLOIPm0fvBQf/u9Pwfigm3modweuSx2mZ9VBhl68dcELpDUdcT49h7LCWe7BfysZK+d2ylopb4cV4pw20qKuAuREP3ubzTnibdMPzn4hYLDA0mzsUyIhzVUMC5oo/w2HyBVrhc7J/HjVtEtIfp3tCVnHrKZGBjrPFINDLoH3Ruzeu7RBIBzILmCktM2gSB7Hp050YFSO0901tivHVqa/nZ3AO5L7C/39CtLuO9iZx9XuwvhTjf/C26yQ+JR0qOI5E2/ExQUd/Tvdide8yuDwgLWBWI1ngpD3BeMFA55/vxZP0UEHTjxclWMp+SxBNHv3k/YX1TcO1Z4j05c82lUqSTxVW+gNf"
+}
