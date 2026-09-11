@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.6.0",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.6.0/academy.zip",
-    "sha256":  "2de466dc8457c084ab9853fdd2d36067ba921baeb8b7a814ecdd82d484e87389",
-    "size":  138390598,
-    "notes":  "R3.6.0: equipo e insumos con inventario opcional, cobro y tickets, cortes de ingresos, ventas moviles y avisos por cada pasada vencida.",
+    "version":  "3.6.7",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.6.7/academy.zip",
+    "sha256":  "58e98ac45256f51cafbccdd34c49d8560624e8070518ed3f5863b56ceee75b5c",
+    "size":  138516492,
+    "notes":  "3.6.7: instalacion y actualizacion con conservacion de datos; limpieza segura de tarjetas, cancelaciones auditadas, inventario, ranking ampliado y correcciones de eliminacion y reingreso.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-09T14:42:25.2536586Z",
+    "published_at":  "2026-09-11T15:11:11.8475531Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "PLZWYzqHUQE7vgoPBBD4KuayIzab47XonWLZLl7yjUg1NCWBptDDVIiDem7OutimE6LAiyHvSDeDkKRePP2+DpbzWx7msFAgsYnjLFHkrVElE5OkIBmfUoFM0Rkq8r5YwlLNOaryClzKsXPY8KQ4qM2u+nzkX/W9ZE7FZ4krE1fCoXNhe4sV+BNwlxtsje8ZwyA2IoPY977AMN8JlH6PlXQPEf41OKwkB4wpkA+4ACipxQcOd9vON5TK8vOPQdf/zcYVeTPeqLFC0G0I6/RP8CDYdaimqZdf0bRkDcmzwc65M6TN5a5usvlEn95T4+zw8jJYStwx/u1DfDw/VCWuLcoKxMd3K8mhgYLtfL6JQ52kLE+slpFBiWdB/A4FkkG0cB9TpDjAMppv6rr23VKFL0Dikron1d0qhnOcliI5TkIbz2St2px+NZvAZRNYBwOBZZrL+DwcmnGG/MK8rupiCPZtTwNgvy7d3+BCllN5u1P2hKG21zBbKE4UI89maXyv"
+    "signature":  "wqz2JgszadsZGMn4EcH65wa8g8A5QkbRA6rWxs316OfA0JHEno3wpoDx21cvqp59Zi4PsLB/U8zQAeUvWTgs4pQjhDhwci/Ul7FwXB253xXu7PG6hyO2BEy8BnUKOzxjrqotKlmUw9JtyOOfP3jO1mu8pYsPYsq5te8b27KeFmwccGiCXIO83Hc8a3hAX1Dk21iamZR5DoSAVPwg1R8cqTJvGxVKQENyuT0IFC4oRER9AqzTWvy8iYcd+6dVJZyf5TvvRRpf3QLNpK3mSXneBvSQEfDuJzDeZXjF540jQ8dZqkogYpW2mqouK/rd+K88R727JycVnf4Yzo/YGP9z/fPkL9JxV7l/I5qjFsyokkUD0EF98GtLre9/qmeT7epiuFVo7sg+yiiX7WevM7nEsFV2VuouAaucIrhbP0VeorPUF7hNgl3whn16fNc5/akYxrY1XQxUKCQjOJf1OxlHekN1SRexmwpCZEBVjxWGJ3wMRBZxzpx7BWVG6skP8m+q"
 }
