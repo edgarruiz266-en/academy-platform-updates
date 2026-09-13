@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.0",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.0/academy.zip",
-    "sha256":  "0b7bb9e61497942ab1d42088301df6c213d832d2cb93df5ac07812db07f8ee0b",
-    "size":  138571347,
-    "notes":  "R3.7.0: continuidad del actualizador, avisos al reabrir y busqueda manual; instalacion con conservacion del estado y datos locales.",
+    "version":  "3.7.1",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.1/academy.zip",
+    "sha256":  "752b472a80ef8793bc2682ec72d86d3c67786fbe05672af3b2071fa9629ba701",
+    "size":  138620343,
+    "notes":  "R3.7.1: diagnostico claro de conflictos del servicio local; conservacion del motivo de rechazo y del traspaso seguro; actualizacion sin requerir PowerShell 7 en el cliente.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-13T15:32:46.7384144Z",
+    "published_at":  "2026-09-13T17:40:05.3287133Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "Eq87fL5PR8x3c7mCIVjl73eGB+DF1YowYlRZz7xyVNGGoMJsbvevzfY6wOliAodlZvlZTLhnXCjVHW3qkJPLl6cT0aXLyOKfY+jMeOq+rWPUafJdGeoRjxl91ePjv+c71lzruR3NYC8w+LFrLGIC5QXrEJGE+vFq1WT5ACcnoT8BzWa7rlOa4U/wtp/wlqhAnxMMSOP5v0CgGSEZSQ0EWYPL62KVrQ4BRqCmWsthBJTKVvGyte6qQcglLKnWsgccvNUSicG81QnlDOT747DEZ+07lN/qfACRh5Gs16wZjt6malux7S2ItWtXdk4xV9z1Aubh1WaZ0H6ylkjh11P1gO0O8PqFxmsXXKuWCx+h/0YPPTiJtvCUmlCnf8MnFuj5BiMr34KejUnvgHjE85+UwIw99rop9FQ1KOcGhojnYmgag6NzcW22uz8e/t2fcpcrDVnFFlhPunI9UYXRMTERMHx+E0fMWMisBn73rlyC8xahEBZztQxkAOId9ITHUR8L"
+    "signature":  "M/LyGakmNyCqaSBw8v+3wTimpoa9RKWcOnmixCdr+TLEl9NexgoQs/+muxFeTwxP/YYGq/PkSgXJ2PZL9nnSabQ43Lxg49z5IawzaeJz66G+htaT1J/VDm3GgsN4PyHPUY4Py2XJz/9rcFYoXV9HX9xbxA9qIPjJIDwj/S9KWw8iMgcKZq7hzEP6/wg37eX1GDHIzffyzT8048VlbjEtxCuvonrxj7IzUDEzu4pHCfQyVeJbYWbqcqEUJ19Qjc4m3eC8nFgLzJSwtXvpeVv7m0fh8+lbr5OB1TCggpB2Unsaxk36r0xl9DttjYAvl1+vrfR9hn1xx9dj3J5VFivDlGCHtjv8vPi4oTvO/FYrFSXMCdVNmzOzEdf3Q2GTaz6LEGfESMdruzNpkf5EN9c4/owMtv1ePC4Lz7FAPUe/xcm0o/b1N1OmFr3csuVcz0gWJnchi894iDLM/KITJ66IQYjrLytFrbLxS6z1AdZNHcAPimWdlBy5VxeSvlaJs5Ew"
 }
