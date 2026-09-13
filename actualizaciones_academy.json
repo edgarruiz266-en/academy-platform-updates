@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.2",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.2/academy.zip",
-    "sha256":  "ffe2f059a0ba8be23935894638f6bde8ad5cb6c86032e4034f248a5faa8ed4a1",
-    "size":  138620311,
-    "notes":  "R3.7.2: correccion del respaldo de actualizacion con rutas largas en Windows PowerShell 5; verificacion de integridad y conservacion de datos locales.",
+    "version":  "3.7.3",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.3/academy.zip",
+    "sha256":  "13dc93b9bf2b02f2092dd7f4d1dde3ceb479b845d61100e737ed8ca83d66333f",
+    "size":  138635249,
+    "notes":  "R3.7.3: prueba de actualizacion y conexion del simulador exclusiva del laboratorio autorizado; conserva los servicios instalados, sus datos y la operacion normal de clientes.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-13T19:05:48.8377268Z",
+    "published_at":  "2026-09-13T23:33:00.4177854Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "d7gLkI5QWBHBY9mCrkDuVWsJATbPefLDhyb6rpSbSJcZZbtnMKM/ljeJnHCJNJCE3j1XkcOgNtMY7HP8WAUsyequepl+AqotVHv9mtdR0yofRYCwjEBMkj80Ch3sAw5YogghLhB0bhAxPhD/ShcL7gWyTuwhPZDMgfioRsj5kcRtYqakY8VKQZ4nn9xjcaeYlI3FT+fmfTk+oz6WJVKqYJcp5uogDTusOYJtZD2Slf5XvfT+/HJbIg7+cXPeGgl1tbB0EhFvKG5H6DHWOAfvMEhgKGPfdCFF9lp/7oUFggS2mihgJ//P+xI2x2q1N96PWTmM32+OvqUHgHs1TMhPDaHT/qqEGT5hQvIXbSqhT5OnQ5LV/7SKLN0ZispvhY3C/aabO7W5x+Sm4lOnxY4DIdmcGAJ3aUgBJz0N3PQoWJs08yXehwAs3fHU79sWmdKXGv0aUdPSM/JdkSb3lodi1ca4hlWy2k2fzSGPsYtWvo4FMUCQNeiUZFLsFUuGEl1y"
+    "signature":  "J+5+6zVCFJDZtC5MneNZxprzSbOYEE9PyWpywxU9sDIGn57cF87RHBdvou8i8ztvMmIvi8kjr9h5ypW+MKKh1clsvfAOYCIx6KXNCEK6wouNDVWUML5//GMPQ6D5+zaTUcRtQLEc3BnlP/CsN/9TTkwrgT4tFOPyUrct+T8KbL078u0hy5a5Vi9ifHLNgHPfV/sYdhWhDwDjlTFxIJrLewANPwEZGGKHIQBzOzTQHoHYU4lzAGQRBIhgrMadkuXYslDvM3tSDihnLEfbO6Kb+UZFt1pGJpc1rVwRidMXG6k3bBkj70X9UWUg6AmVLs6ynJrmMx7/qdWVNRXeDM/friObMiZBpZMxGcQV8u5zGZFp+NEMubFtajyPrK6FaFEm7L7dofhfqEaOK6d2g2/+ISti3xOhi80FM5Yrz2y87dv9EbqVIjB8+a6QSmWWcm2PZWGhnY4YD98OWVcTVS3hFRwpi/e4pEX+9xfBphDcBB7cltIPjQe2zKBWi/Ef3T8Y"
 }
