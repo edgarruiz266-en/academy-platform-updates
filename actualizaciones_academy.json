@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.6.7",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.6.7/academy.zip",
-    "sha256":  "58e98ac45256f51cafbccdd34c49d8560624e8070518ed3f5863b56ceee75b5c",
-    "size":  138516492,
-    "notes":  "3.6.7: instalacion y actualizacion con conservacion de datos; limpieza segura de tarjetas, cancelaciones auditadas, inventario, ranking ampliado y correcciones de eliminacion y reingreso.",
+    "version":  "3.7.0",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.0/academy.zip",
+    "sha256":  "0b7bb9e61497942ab1d42088301df6c213d832d2cb93df5ac07812db07f8ee0b",
+    "size":  138571347,
+    "notes":  "R3.7.0: continuidad del actualizador, avisos al reabrir y busqueda manual; instalacion con conservacion del estado y datos locales.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-11T15:11:11.8475531Z",
+    "published_at":  "2026-09-13T15:32:46.7384144Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "wqz2JgszadsZGMn4EcH65wa8g8A5QkbRA6rWxs316OfA0JHEno3wpoDx21cvqp59Zi4PsLB/U8zQAeUvWTgs4pQjhDhwci/Ul7FwXB253xXu7PG6hyO2BEy8BnUKOzxjrqotKlmUw9JtyOOfP3jO1mu8pYsPYsq5te8b27KeFmwccGiCXIO83Hc8a3hAX1Dk21iamZR5DoSAVPwg1R8cqTJvGxVKQENyuT0IFC4oRER9AqzTWvy8iYcd+6dVJZyf5TvvRRpf3QLNpK3mSXneBvSQEfDuJzDeZXjF540jQ8dZqkogYpW2mqouK/rd+K88R727JycVnf4Yzo/YGP9z/fPkL9JxV7l/I5qjFsyokkUD0EF98GtLre9/qmeT7epiuFVo7sg+yiiX7WevM7nEsFV2VuouAaucIrhbP0VeorPUF7hNgl3whn16fNc5/akYxrY1XQxUKCQjOJf1OxlHekN1SRexmwpCZEBVjxWGJ3wMRBZxzpx7BWVG6skP8m+q"
+    "signature":  "Eq87fL5PR8x3c7mCIVjl73eGB+DF1YowYlRZz7xyVNGGoMJsbvevzfY6wOliAodlZvlZTLhnXCjVHW3qkJPLl6cT0aXLyOKfY+jMeOq+rWPUafJdGeoRjxl91ePjv+c71lzruR3NYC8w+LFrLGIC5QXrEJGE+vFq1WT5ACcnoT8BzWa7rlOa4U/wtp/wlqhAnxMMSOP5v0CgGSEZSQ0EWYPL62KVrQ4BRqCmWsthBJTKVvGyte6qQcglLKnWsgccvNUSicG81QnlDOT747DEZ+07lN/qfACRh5Gs16wZjt6malux7S2ItWtXdk4xV9z1Aubh1WaZ0H6ylkjh11P1gO0O8PqFxmsXXKuWCx+h/0YPPTiJtvCUmlCnf8MnFuj5BiMr34KejUnvgHjE85+UwIw99rop9FQ1KOcGhojnYmgag6NzcW22uz8e/t2fcpcrDVnFFlhPunI9UYXRMTERMHx+E0fMWMisBn73rlyC8xahEBZztQxkAOId9ITHUR8L"
 }
