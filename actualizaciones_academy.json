@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.1",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.1/academy.zip",
-    "sha256":  "752b472a80ef8793bc2682ec72d86d3c67786fbe05672af3b2071fa9629ba701",
-    "size":  138620343,
-    "notes":  "R3.7.1: diagnostico claro de conflictos del servicio local; conservacion del motivo de rechazo y del traspaso seguro; actualizacion sin requerir PowerShell 7 en el cliente.",
+    "version":  "3.7.2",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.2/academy.zip",
+    "sha256":  "ffe2f059a0ba8be23935894638f6bde8ad5cb6c86032e4034f248a5faa8ed4a1",
+    "size":  138620311,
+    "notes":  "R3.7.2: correccion del respaldo de actualizacion con rutas largas en Windows PowerShell 5; verificacion de integridad y conservacion de datos locales.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-13T17:40:05.3287133Z",
+    "published_at":  "2026-09-13T19:05:48.8377268Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "M/LyGakmNyCqaSBw8v+3wTimpoa9RKWcOnmixCdr+TLEl9NexgoQs/+muxFeTwxP/YYGq/PkSgXJ2PZL9nnSabQ43Lxg49z5IawzaeJz66G+htaT1J/VDm3GgsN4PyHPUY4Py2XJz/9rcFYoXV9HX9xbxA9qIPjJIDwj/S9KWw8iMgcKZq7hzEP6/wg37eX1GDHIzffyzT8048VlbjEtxCuvonrxj7IzUDEzu4pHCfQyVeJbYWbqcqEUJ19Qjc4m3eC8nFgLzJSwtXvpeVv7m0fh8+lbr5OB1TCggpB2Unsaxk36r0xl9DttjYAvl1+vrfR9hn1xx9dj3J5VFivDlGCHtjv8vPi4oTvO/FYrFSXMCdVNmzOzEdf3Q2GTaz6LEGfESMdruzNpkf5EN9c4/owMtv1ePC4Lz7FAPUe/xcm0o/b1N1OmFr3csuVcz0gWJnchi894iDLM/KITJ66IQYjrLytFrbLxS6z1AdZNHcAPimWdlBy5VxeSvlaJs5Ew"
+    "signature":  "d7gLkI5QWBHBY9mCrkDuVWsJATbPefLDhyb6rpSbSJcZZbtnMKM/ljeJnHCJNJCE3j1XkcOgNtMY7HP8WAUsyequepl+AqotVHv9mtdR0yofRYCwjEBMkj80Ch3sAw5YogghLhB0bhAxPhD/ShcL7gWyTuwhPZDMgfioRsj5kcRtYqakY8VKQZ4nn9xjcaeYlI3FT+fmfTk+oz6WJVKqYJcp5uogDTusOYJtZD2Slf5XvfT+/HJbIg7+cXPeGgl1tbB0EhFvKG5H6DHWOAfvMEhgKGPfdCFF9lp/7oUFggS2mihgJ//P+xI2x2q1N96PWTmM32+OvqUHgHs1TMhPDaHT/qqEGT5hQvIXbSqhT5OnQ5LV/7SKLN0ZispvhY3C/aabO7W5x+Sm4lOnxY4DIdmcGAJ3aUgBJz0N3PQoWJs08yXehwAs3fHU79sWmdKXGv0aUdPSM/JdkSb3lodi1ca4hlWy2k2fzSGPsYtWvo4FMUCQNeiUZFLsFUuGEl1y"
 }
