@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.6",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.6/academy.zip",
-    "sha256":  "b5c34d8f515abb9a17d8cf555363f610f85b1dbeaa7998d71ea8f9d7962fb50a",
-    "size":  138645917,
-    "notes":  "R3.7.6: guia clara de inscripciones y mensualidades con ejemplos, vista previa del paquete y avisos por campo; controles de ventana integrados y scroll lateral discreto.",
+    "version":  "3.7.7",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.7/academy.zip",
+    "sha256":  "29f7aa9f77343303979a6648bbe7a75167fc5b4905926ef51d05f850405028bf",
+    "size":  138650017,
+    "notes":  "R3.7.7: avisos completos sobre la barra superior y apertura maximizada ajustada a la pantalla; conserva controles y protecciones de actualizacion.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-14T09:17:44.5505717Z",
+    "published_at":  "2026-09-14T17:39:18.3593410Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "i9eu+MwaekCLujEBym8OHjTVdKo9D6hsYo1AN3eaKFzGIkqTQyldZ0udfPWqZLDSHBa0OKK5wV1Bm/JXCYVTcucrTIvewjGFgPCO/g/soGf1tDzVprpyC8/HXQfPpCAu0O1wNKQEZ7uliY6uooOzFeVKmIWLJiBMaWNCf+6TICIzm7GRS44+lSwBlH2PdBXJq99nGPk+RjZg37/BU8cHQBRrB0gwaA5Z+wrGMT95uSLlxyeqMjs6wL70UMDEIBylIOSyisYbTrlTP06qGe2/SUIpsvNobm6+KZ2Gnl4hHlEvLw54SX9ImqTwarrcWf/+y4CuN1XklWMeF/2SdXvcJgG/LcK4aq9BngCBROxIL6X0uhHBObXTxMPkjyY0Z3Bf77VsPzERRdVjiIL2B0LThPaHF8FZk6JTdUWgCF2eQYP/MvDrM9AXAWO4OJ/TP235OtoMZ0FbMIFCdt94OAFOaXZb1njKp21WIv0xowvMeW8+NEsufe1eMUpGfS228oqD"
+    "signature":  "thpTgVN++9O2scPwI5ZDxmsq1BSsuSlH7wY7QsUxwEd4auqdIqjs+VOwV1rzDNu5YhN2YL4g6YTIroDQ2YKvMZaYHDBBTtXD9pXnjBQmZGhw+uPt2y0lsx62XSCGbPHcpF6I2tkL7rqiiFPTAp8z+eJgYahQydUGaZKzKo7be8tzahDA7x1YTn9i4xV5mO64ZU1dbEYBlwyVJLGrE61npVJ1eHyFzfJU/+9WE6ijdJNCBXCSu9CrXp9NqpjWIfcKol65bQKM9mGq1fj+HIXfwtZ58+n5zDj6xCONpC54AOKp/JvY8I0Y66wM1TYD5CF2BE73vgyrBmXJn3Pi50uD7TNO8ygPHfP2v47JFAtPCR46EstjYveHEIhXfuY1YHOVSNy3Hka66iI0aZo0fdDJsRQX9Y/mPSyKHWAPh/a5wSwpophlr17U89GM4RBj6EAzO/cWYGaH9a8iVANEpdBvYHqqYgI8e4tAob+fUm/YNExbgaIDDvNXWevQj6gJX3jw"
 }
