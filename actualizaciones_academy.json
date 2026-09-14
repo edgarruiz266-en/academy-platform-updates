@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.7",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.7/academy.zip",
-    "sha256":  "29f7aa9f77343303979a6648bbe7a75167fc5b4905926ef51d05f850405028bf",
-    "size":  138650017,
-    "notes":  "R3.7.7: avisos completos sobre la barra superior y apertura maximizada ajustada a la pantalla; conserva controles y protecciones de actualizacion.",
+    "version":  "3.7.8",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.8/academy.zip",
+    "sha256":  "2a9f410ecf4f5b5e985cd413069424b2fe1f791b3001a352f91a5e3f7ad2bf59",
+    "size":  138654615,
+    "notes":  "R3.7.8: desplazamiento automatico a la revision al revisar limpieza o dar de baja y limpiar tarjetas; confirmaciones de seguridad conservadas.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-14T17:39:18.3593410Z",
+    "published_at":  "2026-09-14T18:53:16.6472950Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "thpTgVN++9O2scPwI5ZDxmsq1BSsuSlH7wY7QsUxwEd4auqdIqjs+VOwV1rzDNu5YhN2YL4g6YTIroDQ2YKvMZaYHDBBTtXD9pXnjBQmZGhw+uPt2y0lsx62XSCGbPHcpF6I2tkL7rqiiFPTAp8z+eJgYahQydUGaZKzKo7be8tzahDA7x1YTn9i4xV5mO64ZU1dbEYBlwyVJLGrE61npVJ1eHyFzfJU/+9WE6ijdJNCBXCSu9CrXp9NqpjWIfcKol65bQKM9mGq1fj+HIXfwtZ58+n5zDj6xCONpC54AOKp/JvY8I0Y66wM1TYD5CF2BE73vgyrBmXJn3Pi50uD7TNO8ygPHfP2v47JFAtPCR46EstjYveHEIhXfuY1YHOVSNy3Hka66iI0aZo0fdDJsRQX9Y/mPSyKHWAPh/a5wSwpophlr17U89GM4RBj6EAzO/cWYGaH9a8iVANEpdBvYHqqYgI8e4tAob+fUm/YNExbgaIDDvNXWevQj6gJX3jw"
+    "signature":  "FbakNtyRUBcROu/iaHy926GM2fhM1Db06AJCeQOUrQd0Danpk/Idt9GjM4qEpKAE7v55x216+IAwjZRC9HeO8p28J4FSuqWBwI6nsgdow79+toF0cPDJsYEht+fZ8DOheBrnf9d4PdRUc7qCcouxzKlQrc2xmpcygaCmeRFfFyWNrDtswYI34NuC+CJTB2d/LBeSqC0WJeFnOo0KXz+sfvr/fsXviedJysKAn0hlxaeoSJDgejczrkn6xgWlDrz/FOmbnj/3ZA0+2IqeAm8yw+kA0smMC7HfQ3GT5aWv7pMm7WNcwLb5682AfyU89aIl/K24ouJEO9F5CbGSBVisbnWGbffoJdZbNGBp9JCgRVDiykqpChD9/7E0ZFUiplA6LTHyRJgkFCXMtpRWIa5UlAZejzUWjZCTVisywm4R1+fV88fTay7LesMJcyxuOLYODcs7CPZHP8xvivVvgYZonH4zmQJSGEsUvsf3lC7Ey1ZJzzQs+NFkAWEMu0xeLE84"
 }
