@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.10",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.10/academy.zip",
-    "sha256":  "79d499367fda6237ee61e31429398f46bc9718a385ae8dd8b1075a1003487fe7",
-    "size":  138684845,
-    "notes":  "R3.7.10: corrige la conexion segura de Asistente Academy con su dominio de produccion.",
+    "version":  "3.7.11",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.11/academy.zip",
+    "sha256":  "6527415f6aa67be5dbb262ad908165ca0ef0c8fb436984f5ad65c9298e35f83a",
+    "size":  138786849,
+    "notes":  "R3.7.11: asistente flotante para toda Office, ayuda por campo y opcion, seleccion segura y navegacion con permisos.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-15T15:26:29.4402715Z",
+    "published_at":  "2026-09-15T19:54:47.1299742Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "q3x+OD68jtcH8ZcvjQCXlMAnGmw/kBtfT5DtrAWfaVyStD9YPzk/GEN1OILnJjukS2odrFWiQOtpMfHR6wFCpHa/YBbF5ZObdc2Y+8BBtB0Lt05z/rPlwKlb5h/oB4iDhfLEkOsluPd9bqvn2HJ95A9r5jiQoc9B9AhbawzXfSY8eSN7Y560JF1ojNIiTvx0A+EBefi2J3aFYEnALDTZHeLZx5Dg6yIS/i4ze4oo/K5MAl/rF1WhouPvmMSsBsYuGY0rMfzU8Tze9+ozUswuY4BTzI4SUO2nVHcJtK6fgM8b1qmCOqb9PT3RISZZ3T0/44DNg6bdyAlc45jGqXlW/MB+sToKJWcOtMLop+/7gCoHYTnffoDIX/I/7KOr2pY+e7L4SiJuRDReU1Wcm4MNscg8xv0DS//K5VgW0OuhKvW9QygyB73ZxHNBeIjNI2rtksuP4A4Hm8olH2UzQ/5PGJAODRqLD9s83QtP41Llng8xuoX+rlQN9yK4jb/Ww/ML"
+    "signature":  "r1OSqmebc05f8Dl3US4bgsLGSqUD8r73hZPjfF7gDy7dtCtjzkpxrdepDuJB3Xc0BPqaGwW5yHG0TrYHAn2dNogeMF9B6qVcBgTRslYJv5C4mmy+jsBdy3SCmV46nsJUHbLpKQGqnS/jL6chSxN3o2LX03iz8POqMfJRAUrMx1j5xRHjDpLVnZVi2/ZSeqh/G2JUoTMNxUiNbZkPmQZa84Ba4wMrOn56uzxGd0J0R9nI23ngD9MMS2j4WX5Qhch2CIAohUnWifLxSmlfT1RfRMPpjcuvwb5qEHdgG1FaBPlLg+76FdSceousXA5SJbH19G/bcDiNOk5LPZnuy7+pq7k1dOmIkWnIpmkoJxdqqzWctVEe5Q9G1bjeD3RM1Hr3/QcIN9HAQ8xT8EcoxCysEgYXOXFmSXerr+ZAEVuCC8Jw7IuycpaIecaH6Wf5jkFY9hMHSP9yfDAX1wSS8zyfQ+IoGiW3WuTrvKqT7SjkxHjl+mtez1Z81L6k124vpXiz"
 }
