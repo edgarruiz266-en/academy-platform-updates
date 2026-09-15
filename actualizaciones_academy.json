@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.8",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.8/academy.zip",
-    "sha256":  "2a9f410ecf4f5b5e985cd413069424b2fe1f791b3001a352f91a5e3f7ad2bf59",
-    "size":  138654615,
-    "notes":  "R3.7.8: desplazamiento automatico a la revision al revisar limpieza o dar de baja y limpiar tarjetas; confirmaciones de seguridad conservadas.",
+    "version":  "3.7.9",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.9/academy.zip",
+    "sha256":  "031a69487bf40fd0fe6c72c14d1c6c8e86f4b6d8e164a4ffed0dc615f2dd35a0",
+    "size":  138679415,
+    "notes":  "R3.7.9: integra Academy Intelligence en dominio seguro, agrega acuerdos comerciales imprimibles con abonos y entregas separadas, mejora equipamiento y actualiza dependencias.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-14T18:53:16.6472950Z",
+    "published_at":  "2026-09-15T07:50:03.2415035Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "FbakNtyRUBcROu/iaHy926GM2fhM1Db06AJCeQOUrQd0Danpk/Idt9GjM4qEpKAE7v55x216+IAwjZRC9HeO8p28J4FSuqWBwI6nsgdow79+toF0cPDJsYEht+fZ8DOheBrnf9d4PdRUc7qCcouxzKlQrc2xmpcygaCmeRFfFyWNrDtswYI34NuC+CJTB2d/LBeSqC0WJeFnOo0KXz+sfvr/fsXviedJysKAn0hlxaeoSJDgejczrkn6xgWlDrz/FOmbnj/3ZA0+2IqeAm8yw+kA0smMC7HfQ3GT5aWv7pMm7WNcwLb5682AfyU89aIl/K24ouJEO9F5CbGSBVisbnWGbffoJdZbNGBp9JCgRVDiykqpChD9/7E0ZFUiplA6LTHyRJgkFCXMtpRWIa5UlAZejzUWjZCTVisywm4R1+fV88fTay7LesMJcyxuOLYODcs7CPZHP8xvivVvgYZonH4zmQJSGEsUvsf3lC7Ey1ZJzzQs+NFkAWEMu0xeLE84"
+    "signature":  "cYLhXd0CvWtV6o9GklbSckfgK+vbdjmyskJyGo8GDhl3qpIqBJNyfqW5eT28qn7jScMz9rGZWTK2Ac3RFGJ3MvopCivw7GgxrfYpijvhmpN7v66xIpZCrpMbJ5LdhGZPJE3GNijnmBoKrVHEKkJD+VbCWdWfiFWxttNhuD7eR4aQRsaouHVTieQ6Et3KiikeSetjaYY+n4fSvf1oz1OIO2+xEIHB56yALa0OGRcpaXai3rTdH9hmfMiBRNbL0wA4S1dwK2T7M/B4sXdd/1IoPOI+pbNSa6rgCIxPQNwx3WlOeLQ+T23dSwxWl/Sw0CJvuUkKnK+gBmGSb9r72pLD0hKlr0Pw951FbP1I9ychqwsB3ez+crOkO1LHmsdHfj43H17OfKiaLJkQxIqZxeN+4hgWssemk4f6Fp+U+67QcKlJS+FzcyXP8K1wL3iFjPpk+8V9ZPnen/zpbslk50p4HRYWLnlGYQ0CItSY6cyQtVqR5b/tz8Pv2dIhlxgDBrW8"
 }
