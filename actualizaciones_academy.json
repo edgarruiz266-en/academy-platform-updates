@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.11",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.11/academy.zip",
-    "sha256":  "6527415f6aa67be5dbb262ad908165ca0ef0c8fb436984f5ad65c9298e35f83a",
-    "size":  138786849,
-    "notes":  "R3.7.11: asistente flotante para toda Office, ayuda por campo y opcion, seleccion segura y navegacion con permisos.",
+    "version":  "3.7.12",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.12/academy.zip",
+    "sha256":  "94cfdd0918d7bc735fc1d2538dd2f9d8b5de77a0a7339e8e5a58e38efe3d7c6b",
+    "size":  138789032,
+    "notes":  "R3.7.12: busqueda de alumnos con nombres y navegacion segura a Ficha 360 o Cobranza; mejoras de comprension del asistente.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-15T19:54:47.1299742Z",
+    "published_at":  "2026-09-15T22:43:57.7769720Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "r1OSqmebc05f8Dl3US4bgsLGSqUD8r73hZPjfF7gDy7dtCtjzkpxrdepDuJB3Xc0BPqaGwW5yHG0TrYHAn2dNogeMF9B6qVcBgTRslYJv5C4mmy+jsBdy3SCmV46nsJUHbLpKQGqnS/jL6chSxN3o2LX03iz8POqMfJRAUrMx1j5xRHjDpLVnZVi2/ZSeqh/G2JUoTMNxUiNbZkPmQZa84Ba4wMrOn56uzxGd0J0R9nI23ngD9MMS2j4WX5Qhch2CIAohUnWifLxSmlfT1RfRMPpjcuvwb5qEHdgG1FaBPlLg+76FdSceousXA5SJbH19G/bcDiNOk5LPZnuy7+pq7k1dOmIkWnIpmkoJxdqqzWctVEe5Q9G1bjeD3RM1Hr3/QcIN9HAQ8xT8EcoxCysEgYXOXFmSXerr+ZAEVuCC8Jw7IuycpaIecaH6Wf5jkFY9hMHSP9yfDAX1wSS8zyfQ+IoGiW3WuTrvKqT7SjkxHjl+mtez1Z81L6k124vpXiz"
+    "signature":  "H591RrUO1ruEehLOcSojxTpFuW03KwClAo0c2iVuq2PZAnEN3MNJ+8Uz9z8MCQ5Np9NA23moipo3sKeqnez5mPBh5YZ1DwMcpRFrh+lg298KOR9jT01TRsbfhhz5cVac/efqLn2WIvTYN2Q5PFZYqN8/sxBUJRcNrXz8ak5jVo5k0mjFvh08KxKKukJuD3tANPGrnq/ah0A8dxQi5BzlvWkeZ5TqleLBxQFoDKGNSCOGW8eXT5gsAJf7+AEwvbOQi+boemySh4/M2ywXmkgUGHRIoJPKtW3SwfY+p45aS8eNVNlHJIFdj/JW8cILxy+ksIQcaSoItL7BZcW1AWF3DvS42j4c947fyKPs2geVbP8j/s9t7Q2B9AjsaQa5TsdVIgs7dNXbbQhrKBv6MZlkuaRTomj19kMBeFcLP3WMGJ4SpLtF6bmUPK3sl1iKLeM1Aa5eRdNH9TNpStARivckmcsfR1QPVQWUOf6DCMgAueLGhJURDWiR2oSKZMpzYBSX"
 }
