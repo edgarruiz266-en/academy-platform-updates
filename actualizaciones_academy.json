@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.9",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.9/academy.zip",
-    "sha256":  "031a69487bf40fd0fe6c72c14d1c6c8e86f4b6d8e164a4ffed0dc615f2dd35a0",
-    "size":  138679415,
-    "notes":  "R3.7.9: integra Academy Intelligence en dominio seguro, agrega acuerdos comerciales imprimibles con abonos y entregas separadas, mejora equipamiento y actualiza dependencias.",
+    "version":  "3.7.10",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.10/academy.zip",
+    "sha256":  "79d499367fda6237ee61e31429398f46bc9718a385ae8dd8b1075a1003487fe7",
+    "size":  138684845,
+    "notes":  "R3.7.10: corrige la conexion segura de Asistente Academy con su dominio de produccion.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-15T07:50:03.2415035Z",
+    "published_at":  "2026-09-15T15:26:29.4402715Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "cYLhXd0CvWtV6o9GklbSckfgK+vbdjmyskJyGo8GDhl3qpIqBJNyfqW5eT28qn7jScMz9rGZWTK2Ac3RFGJ3MvopCivw7GgxrfYpijvhmpN7v66xIpZCrpMbJ5LdhGZPJE3GNijnmBoKrVHEKkJD+VbCWdWfiFWxttNhuD7eR4aQRsaouHVTieQ6Et3KiikeSetjaYY+n4fSvf1oz1OIO2+xEIHB56yALa0OGRcpaXai3rTdH9hmfMiBRNbL0wA4S1dwK2T7M/B4sXdd/1IoPOI+pbNSa6rgCIxPQNwx3WlOeLQ+T23dSwxWl/Sw0CJvuUkKnK+gBmGSb9r72pLD0hKlr0Pw951FbP1I9ychqwsB3ez+crOkO1LHmsdHfj43H17OfKiaLJkQxIqZxeN+4hgWssemk4f6Fp+U+67QcKlJS+FzcyXP8K1wL3iFjPpk+8V9ZPnen/zpbslk50p4HRYWLnlGYQ0CItSY6cyQtVqR5b/tz8Pv2dIhlxgDBrW8"
+    "signature":  "q3x+OD68jtcH8ZcvjQCXlMAnGmw/kBtfT5DtrAWfaVyStD9YPzk/GEN1OILnJjukS2odrFWiQOtpMfHR6wFCpHa/YBbF5ZObdc2Y+8BBtB0Lt05z/rPlwKlb5h/oB4iDhfLEkOsluPd9bqvn2HJ95A9r5jiQoc9B9AhbawzXfSY8eSN7Y560JF1ojNIiTvx0A+EBefi2J3aFYEnALDTZHeLZx5Dg6yIS/i4ze4oo/K5MAl/rF1WhouPvmMSsBsYuGY0rMfzU8Tze9+ozUswuY4BTzI4SUO2nVHcJtK6fgM8b1qmCOqb9PT3RISZZ3T0/44DNg6bdyAlc45jGqXlW/MB+sToKJWcOtMLop+/7gCoHYTnffoDIX/I/7KOr2pY+e7L4SiJuRDReU1Wcm4MNscg8xv0DS//K5VgW0OuhKvW9QygyB73ZxHNBeIjNI2rtksuP4A4Hm8olH2UzQ/5PGJAODRqLD9s83QtP41Llng8xuoX+rlQN9yK4jb/Ww/ML"
 }
