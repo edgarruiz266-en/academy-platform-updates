@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.14",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.14/academy.zip",
-    "sha256":  "cf983951be7dcd2696cf6f13bf7d9029e969d7b380916018db906bb7bd96336f",
-    "size":  138793521,
-    "notes":  "Asistente con accesos directos por contexto, consultas a soporte con seguimiento y avisos de respuestas, mejor concurrencia y protección de sesión.",
+    "version":  "3.7.15",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.15/academy.zip",
+    "sha256":  "3767eac2406262ec73daca7cb56ed8847c3569cb5f0cd79445e7b8122e9da8dd",
+    "size":  138798580,
+    "notes":  "Consultas compartidas de Inicio, cache de ranking por academia y sucursal, y mejor recuperacion de lecturas.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-17T01:12:44.0699425Z",
+    "published_at":  "2026-09-17T15:08:37.6483426Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "aMLgko38Z6r5LDo+UJ/K4myGiFKlIJNPaGY5sLFpShNWnV+XrDrKKYcw3uPBvgQTPQG2i6EPvLqniFlsOVK3UyQGb9ECXvdqWgiIFEsA10cxsg94phnT2LdI5ip0Mgi+/OTHbCV4VjrOTFZnJyvCo8oyWp9XWGLVoXf0MJIhUpGa24pP8jXNkmDOtY7F/HIVBuySFz1/le9HCU/wslzUb9n38SKOc2jZZdAtPup6DEVqBJI62R3SOR3cJnhd8rJTFSqp6VSR2bu5tdJNsURpTXFJK0ETKx3jdaunWEYDcXQWaS5bkLpY4tA15QQ4u8BgODCeGR1a3nvXYolBuijtDHQ5NJM9qICxRXFaytpm/Wsy38WybiqlJ/QFshxU/X7IMZWpNlV7MfK5jP7nfqeaXR9IedBpfBsgo2pd850TC6jHAIPkKSfdpCjJ3VOrwuZyP8hp0NTrWKOlr2LLljmNow2rw5JZ1gu+gRE9hbAg9EdG8ktqNbfo/6+c9tx3TwVb"
+    "signature":  "FdKFs/4w4TkYG3iF3iezlFknliKR0hfmmrxq8Kv4YWoGOn5ITPpAIVkP3bBQY9uS+T7zQ2cgIqKYUpSR+k/LmqPhcdxhXnDh4IJIxfyRVRggyCmC6oeLMPZ+4HzaR5FGCxblZpUWplTNn4BVHOM7bCQVwEN8C3SfHF1l5D4kaNXiwyIKdr8V5a4JvAEfu+UXEPMSr3ovJdYip3U93aUPyfRZyZpolpDKPW98pg1s+RTqAIZrx4oQDibzy3o26q/qFEewBY6dd75cWX59PhXh5w2qh1pPvaoMufRLxGQ6ntARY/M7jZ5j0r122aGFHJdKVYXhrqlXajo1QLAy5Gm8rNBGaTm9UBfvoP8FHy9h2jBxIxm9v8WTRsDbkMuWNOlJinI5TwZ5jtZ6fJ2+QZLPwhRtOnGoJzstb8FrRfjSoul0nEUIUE6u6hGW0xli2sJZr/XxMjtdH4EITZeaaNrz10Sb3TGnOxf7234RSm2i4pxAhpXwNhlQqTGyo56pz8uK"
 }
