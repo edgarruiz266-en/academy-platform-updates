@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.15",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.15/academy.zip",
-    "sha256":  "3767eac2406262ec73daca7cb56ed8847c3569cb5f0cd79445e7b8122e9da8dd",
-    "size":  138798580,
-    "notes":  "Consultas compartidas de Inicio, cache de ranking por academia y sucursal, y mejor recuperacion de lecturas.",
+    "version":  "3.7.16",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.16/academy.zip",
+    "sha256":  "af3951aed52484393ed1959bc929387c52f7682cbe3f10f7754c1f9b2de48a82",
+    "size":  138860759,
+    "notes":  "R3.7.16: Asistente con contexto seguro de sucursal, ventas y asistencias con filtros y accesos a reportes. Mini CRM WhatsApp con conexion oficial, plantillas, campanas, atencion e historial con controles de activacion.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-17T15:08:37.6483426Z",
+    "published_at":  "2026-09-20T07:10:57.3165286Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "FdKFs/4w4TkYG3iF3iezlFknliKR0hfmmrxq8Kv4YWoGOn5ITPpAIVkP3bBQY9uS+T7zQ2cgIqKYUpSR+k/LmqPhcdxhXnDh4IJIxfyRVRggyCmC6oeLMPZ+4HzaR5FGCxblZpUWplTNn4BVHOM7bCQVwEN8C3SfHF1l5D4kaNXiwyIKdr8V5a4JvAEfu+UXEPMSr3ovJdYip3U93aUPyfRZyZpolpDKPW98pg1s+RTqAIZrx4oQDibzy3o26q/qFEewBY6dd75cWX59PhXh5w2qh1pPvaoMufRLxGQ6ntARY/M7jZ5j0r122aGFHJdKVYXhrqlXajo1QLAy5Gm8rNBGaTm9UBfvoP8FHy9h2jBxIxm9v8WTRsDbkMuWNOlJinI5TwZ5jtZ6fJ2+QZLPwhRtOnGoJzstb8FrRfjSoul0nEUIUE6u6hGW0xli2sJZr/XxMjtdH4EITZeaaNrz10Sb3TGnOxf7234RSm2i4pxAhpXwNhlQqTGyo56pz8uK"
+    "signature":  "C6WBfHv/3br7P+B4W6CC2uEWUtPHx+GpkWtZo/liH2TdKFI2nCCX/jV8QsjAexNkWX4NZLHHxGJOTLoOR4fWUc7IAjaQUOUaV8ZLVq0KdLBd7cm9GTt9qcvp37G/KnTnqU3/vV+nIi5sh0bwk3ccguVPM8hg5bupxoQxXLmeB8uo4O/pVNz/RjfLWB8fQHfEm4QMvGArqKAzbsAq3l/SampgNBNAuiG4p8EA5pLEBPxXRHaP9IPRTHenaUhY7wVmq6FCOufjdbk+9lnfK38+A3Z5mNqpIX/rkeXeKJ921RBRqiDMbmRSEKREOqcH7PvxLfKTVfhZR6tt3193DaxWQTBCYIHqBdjXxnyDamABVxRHa4ReQNSRJD0gADmosQjXQRc9qoGeUPKuSHPFXARWsCgb2D6Y4Ri+4V7JGN5bSxMC6bfaRf2j9iWgAH4IJ4GW+Iull6V/xuiHykB8EZ+zBGGCWqTauyBF84iCv7LQ9tmTcWQeiVnHYMjxQ4/TpAhb"
 }
