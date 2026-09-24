@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.16",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.16/academy.zip",
-    "sha256":  "af3951aed52484393ed1959bc929387c52f7682cbe3f10f7754c1f9b2de48a82",
-    "size":  138860759,
-    "notes":  "R3.7.16: Asistente con contexto seguro de sucursal, ventas y asistencias con filtros y accesos a reportes. Mini CRM WhatsApp con conexion oficial, plantillas, campanas, atencion e historial con controles de activacion.",
+    "version":  "3.7.17",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.17/academy.zip",
+    "sha256":  "f171000f22f5212948da12ae68439bcf442331b97bd4b53b3f148cb5237d3f2e",
+    "size":  138890210,
+    "notes":  "R3.7.17: amplía el asistente de recepción con consultas guiadas de ventas y asistencias, accesos directos filtrados, revisión de acciones y exportación explícita.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-20T07:10:57.3165286Z",
+    "published_at":  "2026-09-24T17:45:35.7299554Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "C6WBfHv/3br7P+B4W6CC2uEWUtPHx+GpkWtZo/liH2TdKFI2nCCX/jV8QsjAexNkWX4NZLHHxGJOTLoOR4fWUc7IAjaQUOUaV8ZLVq0KdLBd7cm9GTt9qcvp37G/KnTnqU3/vV+nIi5sh0bwk3ccguVPM8hg5bupxoQxXLmeB8uo4O/pVNz/RjfLWB8fQHfEm4QMvGArqKAzbsAq3l/SampgNBNAuiG4p8EA5pLEBPxXRHaP9IPRTHenaUhY7wVmq6FCOufjdbk+9lnfK38+A3Z5mNqpIX/rkeXeKJ921RBRqiDMbmRSEKREOqcH7PvxLfKTVfhZR6tt3193DaxWQTBCYIHqBdjXxnyDamABVxRHa4ReQNSRJD0gADmosQjXQRc9qoGeUPKuSHPFXARWsCgb2D6Y4Ri+4V7JGN5bSxMC6bfaRf2j9iWgAH4IJ4GW+Iull6V/xuiHykB8EZ+zBGGCWqTauyBF84iCv7LQ9tmTcWQeiVnHYMjxQ4/TpAhb"
+    "signature":  "GTXJUBAC/+YrC5mV8f32bEkS5nSeIkJenlZXYWFgRYU6Ip1HVz+7iJvIB0L9Et9/SS2wTBTNzjV6qFjvaonEShcc7NBtE/hU5SJFXDO6trKguwd7Qh//TlsqXBqZMynuElf2b3QHxPwwo2QKFTg23+KPu1mCBDPkvDgFa+1PSVebqnoCCbBVSC7dN8rfco/2KAMm/CCl5dliQHAbbuY679rVi3W2YEWVxEY+86V3hUULlJU+Nc0TFM+Cgz3JYSW/9AoCZnHEkpHUegJskwl5tpzcSiFV5FQal49OcqsIIiI9BfU1vTY/MBk+KsmfBfOy6jxbDAUqghGP7WWX69C6/PS8CF+qAuqsXAtaOEjMGatvvKhZuVDG1nI8uK77b6J+YLuyblM97pUo9d6LItOyzX/bsi/6Q++51ANA2/YAkggGOFnyKxDEQD1HnoidxW2NRUw+qJ/tC4FXE4BDMZvJtxrjpuFCJXaYOD09WDXBfVDWhGSIAGdRJMhuET/ICvXM"
 }
