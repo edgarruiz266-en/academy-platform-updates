@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.17",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.17/academy.zip",
-    "sha256":  "f171000f22f5212948da12ae68439bcf442331b97bd4b53b3f148cb5237d3f2e",
-    "size":  138890210,
-    "notes":  "R3.7.17: amplía el asistente de recepción con consultas guiadas de ventas y asistencias, accesos directos filtrados, revisión de acciones y exportación explícita.",
+    "version":  "3.7.18",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.18/academy.zip",
+    "sha256":  "92e563a8fd2ec6fa37c6bb6314870d7ce108fe41048271f8ae1a04082a19c1f4",
+    "size":  138892576,
+    "notes":  "Asistente de recepcion: multas escalonadas, grupos, TV, asistencias y cortes con accesos directos",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-24T17:45:35.7299554Z",
+    "published_at":  "2026-09-25T18:00:14.9698145Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "GTXJUBAC/+YrC5mV8f32bEkS5nSeIkJenlZXYWFgRYU6Ip1HVz+7iJvIB0L9Et9/SS2wTBTNzjV6qFjvaonEShcc7NBtE/hU5SJFXDO6trKguwd7Qh//TlsqXBqZMynuElf2b3QHxPwwo2QKFTg23+KPu1mCBDPkvDgFa+1PSVebqnoCCbBVSC7dN8rfco/2KAMm/CCl5dliQHAbbuY679rVi3W2YEWVxEY+86V3hUULlJU+Nc0TFM+Cgz3JYSW/9AoCZnHEkpHUegJskwl5tpzcSiFV5FQal49OcqsIIiI9BfU1vTY/MBk+KsmfBfOy6jxbDAUqghGP7WWX69C6/PS8CF+qAuqsXAtaOEjMGatvvKhZuVDG1nI8uK77b6J+YLuyblM97pUo9d6LItOyzX/bsi/6Q++51ANA2/YAkggGOFnyKxDEQD1HnoidxW2NRUw+qJ/tC4FXE4BDMZvJtxrjpuFCJXaYOD09WDXBfVDWhGSIAGdRJMhuET/ICvXM"
+    "signature":  "KCixsGKRvXwz2G4ClovZdq31Yb1/LyF5oNmeq5L0ogPQtS5TU6bQ0O+mvqVBgY2ZYw2QIPtNkFpMVEFDkRg8Wk47f72iqsGKF4Lu/pLu6ajLd5R5NF4OHa5hPWWtRvaVL49pBbRhaTkAiEKsgNqi1V8TR0y5/PGhL8Fyvmele77Uc4VAeDk/YlJbQCYRSfuhnAs5KiF56Pk5VIiHoGf4Be8s6E74GBa8NnutM4joQa/5r+A69MnSOrfAfii6dx9V0vJNrwO4uGmpB1iFZtn7JpNL27UZjJAlAQMjRBcfEjnyTDOr8XwuHkSBWkLQhADgTo/pHOWAPiOw6dOoV4mf1LgGoC9naDOEKxUVPO8O/B2lBhjMwIT3MHzC1RpsGqycChyoab08Iqiaw/KjKtxQBXpw+jHfxlTU/A5YDQY0zn3rBkqOdc4v4dfpM1m7ygTPAT9G44DHKw6iF+3KzXzZrKuSCaeYrILK6uK0glafzeiUwflJ2zS+PK9/FOyIWcDk"
 }
