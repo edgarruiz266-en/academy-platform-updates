@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.18",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.18/academy.zip",
-    "sha256":  "92e563a8fd2ec6fa37c6bb6314870d7ce108fe41048271f8ae1a04082a19c1f4",
-    "size":  138892576,
-    "notes":  "Asistente de recepcion: multas escalonadas, grupos, TV, asistencias y cortes con accesos directos",
+    "version":  "3.7.19",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.19/academy.zip",
+    "sha256":  "68bb27c4b61da786a1557af645b4ac4d7bdc0153efbd43c708c5763a2ad43106",
+    "size":  138895972,
+    "notes":  "R3.7.19: PDF completo de asistencias desde el asistente, filtros seguros y avisos de soporte leidos al abrir; requiere Intelligence 0.8.10.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-09-25T18:00:14.9698145Z",
+    "published_at":  "2026-09-26T15:36:31.5378353Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "KCixsGKRvXwz2G4ClovZdq31Yb1/LyF5oNmeq5L0ogPQtS5TU6bQ0O+mvqVBgY2ZYw2QIPtNkFpMVEFDkRg8Wk47f72iqsGKF4Lu/pLu6ajLd5R5NF4OHa5hPWWtRvaVL49pBbRhaTkAiEKsgNqi1V8TR0y5/PGhL8Fyvmele77Uc4VAeDk/YlJbQCYRSfuhnAs5KiF56Pk5VIiHoGf4Be8s6E74GBa8NnutM4joQa/5r+A69MnSOrfAfii6dx9V0vJNrwO4uGmpB1iFZtn7JpNL27UZjJAlAQMjRBcfEjnyTDOr8XwuHkSBWkLQhADgTo/pHOWAPiOw6dOoV4mf1LgGoC9naDOEKxUVPO8O/B2lBhjMwIT3MHzC1RpsGqycChyoab08Iqiaw/KjKtxQBXpw+jHfxlTU/A5YDQY0zn3rBkqOdc4v4dfpM1m7ygTPAT9G44DHKw6iF+3KzXzZrKuSCaeYrILK6uK0glafzeiUwflJ2zS+PK9/FOyIWcDk"
+    "signature":  "r8JV/h/FJW+/NBoq4tCdzl/7aHl/xcew+2KJsWIPQWuEAqiQ1laeDihspKe7FOuFTeWkrDYXLCWMXoxbX4mMP1mfDN8vnHbyRuaqYA+ihA0DIb/5bQftsfRYbLWtE+p4N1/Mcrlojeqr6F+Hsk7zBH35LYwq4gCwEBFv6LyQb5ER7709hd/QcHHldbUunr/4Jv4Cwx7EimZ/O6a8fLBNlQDEWKKrgPx9cWW/r5tY49UbTtRy+nf8p7x7LFslvBe2AQSrY4NgEkI2BDkWZXMfsyJPv2eB8wqQX/Nsmh/fQ6R3JK8afIYl8TV2bSrvstV0HUwajG6HuXuvhRlRWd7Y0uXyFSJhNdurzYMwb1fXIXZuurbGt6x36+2JFsBQRp9dxM/UyPbxT8TFWviqk3cBOSkHRsQ8Pm1Cg+rbRVutvw3z3wLCfIvog+wgb7GXuNxOT5E9W0ndXI7CcK2CG235PCRWZcFsWX4nsmqZ5o22CLcFRGmvUzyYAR1INFhYsX/o"
 }
