@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.21",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.21/academy.zip",
-    "sha256":  "640c8e8dd293fca4fdfe40b5eed1ca1271f6c216dc9db2d84264554e94df087e",
-    "size":  138993876,
-    "notes":  "Correcciones de mensualidades e inscripciones, identidad segura del gateway, recuperación de cobros, lector de recepción y comunicación de tarjetas y TV.",
+    "version":  "3.8.0",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.0/academy.zip",
+    "sha256":  "1eb715296b01e1c6895009b54c6d8ade8a1d0239dbe61e586f65a48defcecf8a",
+    "size":  138992018,
+    "notes":  "Corrige bloqueos temporales de cobranza al renovar la conexion y conserva la referencia de pagos e inscripciones durante verificaciones. Mejora la recuperacion sin duplicar cobros; mantiene la confirmacion del controlador, TV y API.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-02T15:26:51.3141595Z",
+    "published_at":  "2026-10-02T18:16:09.2330475Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "wu55UsMm9V0iWKR5fix/DB3UZ6Sh3fPYqhnF8rruk5Z6Poz3XIhbmadTaVffRY9zJ1aIRSbW8bwd/5yJtcIAykYwrU4kYuelMZEFHyCXa3LgG/9mPD8EXozjJ+O3k2pLMAxalc7g529HoiksZGz01GcvpAbwczo5c6xfg3Y4ALPDsvnZH+ecTos9ej2b7Eah9/7HYCdQWeiV/al9D4/IWuq01zDQQ1vJFwxQPjhorIw94lBjhyqgY9lVpko8fa4UK8hClhjMTyjPOXlkFUHGS60ALO/H/gbbcy3ngPbrcvCRFiKovnpw6mJc32WefFT3j0NT1pJi4n/Y/Eb5cv5S5ZYA5pyevuytoHgJr021LzWFpJO2Afk2pemS2lYKId+gzQPcjHwzum0CVDw/wP9f3LidXtV9ca0GY8t+CUvzCwhCyBLz6UQQ8zBnzuc754Vq69HIwB9kUtgS9Wn1/WqHT1YehyHqXujZm+yNGojqJa2VZ0wakcz8rowxyp2/soDM"
+    "signature":  "WD0b/8JI1ySRYziQ29zHmR2VWtbshtkAkXudR9cfD97SiN/TdpBrXlr+ily0xKpkagxfsTTSH1hhXN7nycqgmbF7Ypeyk/IRD+KI+euBe4UUYEx1Eni6LPXf2UljQ+Me/XqQE+vwakyy+FVCxiD0RN0FeNmDDdKC5D9e4JoGye/xNALJEh14VYxMXbCc1VhKszys95S0/qvKKUMgbYxkTD0lfxpxo6L6724oM31cVZh5Nxpu8ECevDUwx4uEXZrCpPWI+fNsdWuLYaQTVK7wSOOLKHTmugbpI6P7OTnZPCyzbaICPvx35odn3PnqA+A03J76E+Cc+jD9+Lcq3O0Zf8qJ6IWX03bCozas8Rkc1i+Ps7CpIzzUp0fO0sOPHU6sY5mXJnpHaUGZP8qHBM4xhu6Sar555WkC88fRWkbxmBoj/ZAq7aEJpCKv77u+/kmZ8zqefTpkn8gxVyOMVJxcibsvrg7FGhX52M2UK1xzMyQMOQqn2qAFKfH3fQgR2i5r"
 }
