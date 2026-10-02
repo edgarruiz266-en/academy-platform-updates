@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.0",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.0/academy.zip",
-    "sha256":  "1eb715296b01e1c6895009b54c6d8ade8a1d0239dbe61e586f65a48defcecf8a",
-    "size":  138992018,
-    "notes":  "Corrige bloqueos temporales de cobranza al renovar la conexion y conserva la referencia de pagos e inscripciones durante verificaciones. Mejora la recuperacion sin duplicar cobros; mantiene la confirmacion del controlador, TV y API.",
+    "version":  "3.8.1",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.1/academy.zip",
+    "sha256":  "f219f8dd6c28de4734abd92d670924b746cc02106dbee1c359dc9ff9154604c2",
+    "size":  138994845,
+    "notes":  "Mejora la recuperacion de limpiezas pendientes: consultar resultado y reanudar la misma referencia. Conserva la consulta al verificar el controlador y refuerza la validacion de tarjetas y confirmaciones. Requiere Global API con las fuentes corregidas.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-02T18:16:09.2330475Z",
+    "published_at":  "2026-10-02T21:28:42.1481636Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "WD0b/8JI1ySRYziQ29zHmR2VWtbshtkAkXudR9cfD97SiN/TdpBrXlr+ily0xKpkagxfsTTSH1hhXN7nycqgmbF7Ypeyk/IRD+KI+euBe4UUYEx1Eni6LPXf2UljQ+Me/XqQE+vwakyy+FVCxiD0RN0FeNmDDdKC5D9e4JoGye/xNALJEh14VYxMXbCc1VhKszys95S0/qvKKUMgbYxkTD0lfxpxo6L6724oM31cVZh5Nxpu8ECevDUwx4uEXZrCpPWI+fNsdWuLYaQTVK7wSOOLKHTmugbpI6P7OTnZPCyzbaICPvx35odn3PnqA+A03J76E+Cc+jD9+Lcq3O0Zf8qJ6IWX03bCozas8Rkc1i+Ps7CpIzzUp0fO0sOPHU6sY5mXJnpHaUGZP8qHBM4xhu6Sar555WkC88fRWkbxmBoj/ZAq7aEJpCKv77u+/kmZ8zqefTpkn8gxVyOMVJxcibsvrg7FGhX52M2UK1xzMyQMOQqn2qAFKfH3fQgR2i5r"
+    "signature":  "pYV5sjiDixBzXiLzPCEFjpfyz9Ji2+kkQJp5ezVQhmFY5791pezUs6IANOctxAkpMMrPrVKtOf55+LRbEghEwl1oKTBDGQ046CElrRLs16nd9Io8q0fzhZDIc+2bwBZFC4ZQRC+I+cnkNSaqi9/k5kBJW1ZWBNUTSREfzYIKo4RoS0m9Y2kgdSRqXboJG94US5dBRdNfg2+4xy+3/i4KLSa4VM6rQf+o62zdGb+XCmUKA23CZ3dyB4dMArQnDzgju/B+ANGfACs5IEVLwnDO29Bura6FIluAKeVONnuNNufIZcTTmF7Jes+9y6//m4IIb+CVhST5/43SGoyfvh5hw41JiLLKB+Zf69ibQm8PS1Jw+IhNuopGDT+ugGhFI3WYPytrQ+Iq7q87JMlsgnDbUsu54ViOAMSj04nPPP7njQEMuTKtXdlCCRIGU/H4k1fEgC4hwvNUhdDDopy4eAmnhxvxku2Ci1B9/Zh0GTC+92RVWj/FSIdEnj9qtUXJU8TN"
 }
