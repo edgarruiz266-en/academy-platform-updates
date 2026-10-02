@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.7.20",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.20/academy.zip",
-    "sha256":  "1dde5ec870cec56d542414ee397f0ed31884c0904bb63d5f6bea1f2813a6aa6f",
-    "size":  138975590,
-    "notes":  "Mejoras en cobranza, inscripciones y ventas de equipo; recuperacion segura de operaciones interrumpidas y comprobantes verificados.",
+    "version":  "3.7.21",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.7.21/academy.zip",
+    "sha256":  "640c8e8dd293fca4fdfe40b5eed1ca1271f6c216dc9db2d84264554e94df087e",
+    "size":  138993876,
+    "notes":  "Correcciones de mensualidades e inscripciones, identidad segura del gateway, recuperación de cobros, lector de recepción y comunicación de tarjetas y TV.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-02T02:13:43.7343152Z",
+    "published_at":  "2026-10-02T15:26:51.3141595Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "cBW2a4jtnaKyS4Xt8RANjoZ79IFzNfq2C7prp2y2dVlwLdfyNPBcnBcY8NHBk4gM8o7v6CAlaJ63JFX6dICj/Ro1YRPs8sHsL/J1vGpsxb4soQW4fsOunzr3Knd4qtURKL81h/gtHQItB3f6wX5P71M4+x91w+ftdJp4tGp2yaHMj9HyGYastZUoZGPAXAPnocOqqGxMZ9Op1N2W7aSEzF+PPXnfkh9dKB7bE8+nWO8PmJd28f3g2WDG27Y57ek/ZcF2SVGje5ShSBIl4eZlFjjTNcizHxVnPBv1osjh/T2P58J2PZ0uqNgLrmxrCAxRMpElTHNbsCG7lCPKDqgDSbJ41536ISVlbUHDooUTKJvLV24zuUU+YZJbVMxjClZZu9uzgj1MtG+dgkqB+jIR5VD0gE73uXqut29xqfs2mmmM3MljUktouvdzUjm3ttl8t9GJqnt5dPUtq82kQG0Vxm68xpFwSZ38PHca2lpIiCWYCO25nXqXtFMwNvLN6LOt"
+    "signature":  "wu55UsMm9V0iWKR5fix/DB3UZ6Sh3fPYqhnF8rruk5Z6Poz3XIhbmadTaVffRY9zJ1aIRSbW8bwd/5yJtcIAykYwrU4kYuelMZEFHyCXa3LgG/9mPD8EXozjJ+O3k2pLMAxalc7g529HoiksZGz01GcvpAbwczo5c6xfg3Y4ALPDsvnZH+ecTos9ej2b7Eah9/7HYCdQWeiV/al9D4/IWuq01zDQQ1vJFwxQPjhorIw94lBjhyqgY9lVpko8fa4UK8hClhjMTyjPOXlkFUHGS60ALO/H/gbbcy3ngPbrcvCRFiKovnpw6mJc32WefFT3j0NT1pJi4n/Y/Eb5cv5S5ZYA5pyevuytoHgJr021LzWFpJO2Afk2pemS2lYKId+gzQPcjHwzum0CVDw/wP9f3LidXtV9ca0GY8t+CUvzCwhCyBLz6UQQ8zBnzuc754Vq69HIwB9kUtgS9Wn1/WqHT1YehyHqXujZm+yNGojqJa2VZ0wakcz8rowxyp2/soDM"
 }
