@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.2",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.2/academy.zip",
-    "sha256":  "39f179e65657203e8bbbf42e2cff626ba4bf27290a1d8081c89dc7af24281993",
-    "size":  138996809,
-    "notes":  "Mejora la continuidad de cobros, inscripciones y tarjetas durante verificaciones temporales de conexion. Conserva el formulario, progreso y referencia original; pausa nuevas acciones hasta validar la conexion. Incluye Local Service actualizado, mantiene las comprobaciones del controlador y TV y la confirmacion segura de Global API.",
+    "version":  "3.8.3",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.3/academy.zip",
+    "sha256":  "bdcf74e2bf72539788949bfa8e2fba33327832da1861c102c91e58f43bfac8d4",
+    "size":  138999529,
+    "notes":  "Mejoras de estabilidad y consultas en alumnos, tarjetas, cobros, inscripciones y TV. Conserva la identidad durante fallos temporales, evita respuestas de busqueda antiguas y recupera ventas sin duplicar el cobro. Mantiene la confirmacion segura del controlador, TV y Global API.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-03T15:08:19.3523319Z",
+    "published_at":  "2026-10-04T01:29:37.6279370Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "jhGin8//aQ75V5/KpowWoQI+QaQLYkALtceontkytDcEBRMMxKQkT3mUq2ssb4GmvBqfEJi7E1DYNHLMUuPsmddKOl2DergCgDgwNK7BAksio6+Jdu04BKtyXfddgpRVtOqGE8ph8XVilrbTqpNh89pkOaC2lpVOHNZaGxdt2P4hSa2nVyk86Dsi5QjhF/0spKNdTQkN7qU7THgzJrefTq1OYfZaNd0Qeb1inXfXcE87A0cG2xJ34kQkIRtI8eCqaopdC3Z20bFREL6ZvkCMUV7KewAxu280YPddgLYHg9fQiMrUWBKqgV7tztfd4c4+2iF8Y+GunymenhSqky18zGWF+Slbd/PP4unS7+43luoNorn/p2YVOyg+Vv7iTpBPVFDmp+77B9pvSHX2/DAac/l/986EzxgTI44dslK9FVGThiCb/oXC5KFm0DO9Z4jNB6XhdlLUGukEZpQ0L5+qNldf0fB4UhUirRPeNeFsOY7BBDZ1eQzzo6R1HIOclt38"
+    "signature":  "UQp8nk13ik/AQJZPMZFHXCaobpO1M/2wT7HSA9GxMMJDxnP+xtn5WZOqIaapP2elb2du9VLQgXQ3FYOooIASIkRKPqtby8wcdbyTLVDB0JNRRfYunRvR6WX3+ZMPz43ghfkqsB7f7BMqBwMEBXQCOJkC5QNlrgxfoCo4n0fzPyrKxZHCVGQoB4PQiAdf1AZi18GLDtF809gG7GXZ5xk+mhq3bFpjOvzypQE5WnchurZqgCZi8tRXg95myWxzlntISXxCGogzenrsawzVjJVDSBJ5zp6TIk/5hxJhHx+qOytuJ140FC/LuytV6aeI22+Uzz0sdNcy4xeqbIdDqpKbGZ2PvN8JoRddjpxMgEjkcRLh7xs4hZNFYqWb8pG80WplBIMK2YUV5GcY/SBpAGA46+B1diIiUUuhwHhmrEZXnfwd3dfuaIKgdpEa6q5NpEYSqn4EgeFgLYlpUqVglCz/ZeIJYb8Y5d3uGLBZfHUk/4JT4pCpp3IghwEt9fW9twHb"
 }
