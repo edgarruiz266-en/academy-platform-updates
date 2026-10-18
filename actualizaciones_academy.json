@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.3",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.3/academy.zip",
-    "sha256":  "bdcf74e2bf72539788949bfa8e2fba33327832da1861c102c91e58f43bfac8d4",
-    "size":  138999529,
-    "notes":  "Mejoras de estabilidad y consultas en alumnos, tarjetas, cobros, inscripciones y TV. Conserva la identidad durante fallos temporales, evita respuestas de busqueda antiguas y recupera ventas sin duplicar el cobro. Mantiene la confirmacion segura del controlador, TV y Global API.",
+    "version":  "3.8.4",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.4/academy.zip",
+    "sha256":  "e3ed13cfa917c4b878d757a38a9be996e5067b3070d68ca17b1ff59459ba3a3d",
+    "size":  139049205,
+    "notes":  "Mejoras en recuperacion segura de cobros e inscripciones, limpieza y reposicion de tarjetas, consultas y retencion de historiales. Sincronizacion de accesos con renovacion segura de sesion y conservacion de referencias pendientes.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-04T01:29:37.6279370Z",
+    "published_at":  "2026-10-18T23:48:36.1629616Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "UQp8nk13ik/AQJZPMZFHXCaobpO1M/2wT7HSA9GxMMJDxnP+xtn5WZOqIaapP2elb2du9VLQgXQ3FYOooIASIkRKPqtby8wcdbyTLVDB0JNRRfYunRvR6WX3+ZMPz43ghfkqsB7f7BMqBwMEBXQCOJkC5QNlrgxfoCo4n0fzPyrKxZHCVGQoB4PQiAdf1AZi18GLDtF809gG7GXZ5xk+mhq3bFpjOvzypQE5WnchurZqgCZi8tRXg95myWxzlntISXxCGogzenrsawzVjJVDSBJ5zp6TIk/5hxJhHx+qOytuJ140FC/LuytV6aeI22+Uzz0sdNcy4xeqbIdDqpKbGZ2PvN8JoRddjpxMgEjkcRLh7xs4hZNFYqWb8pG80WplBIMK2YUV5GcY/SBpAGA46+B1diIiUUuhwHhmrEZXnfwd3dfuaIKgdpEa6q5NpEYSqn4EgeFgLYlpUqVglCz/ZeIJYb8Y5d3uGLBZfHUk/4JT4pCpp3IghwEt9fW9twHb"
+    "signature":  "AVh8FwuD7rxjBdCFyRXZSIVXJRvlp6tDVdw4M/WR4v3Pck4L0f07PW17GkDCUduoCTpQd9dpvdGZ1Z7xYg6T1U2zsVx+4dsSnTXG5OUzPp9ve5/Jg3VFsJK4FShthDR5lnYZwGGdN09LPqnBz2adlNd12Zp0zZ2BEE+0hNeSrtCxJ7/v6EV1ka5cRnxF5C07109TQw00F0w4PpD67JjOOjjtLYHiBXgCUvOMfwRgl6SgnWqAIJAbsDw/cDi2/ekUYy8UZz1TJr0rH5V2zXQTxNw/NTapd+m2n9y91vHg0vPLpI942eZX94faacq8wovp5jzkjRQlr5UpqKiW6dSWtuSr8Rc7M+cCJ9GJjQr64MuFxLcGFUJFvAHJlKthoMOMKhQ0nKLCZqcD41+j9F98NDEPSovsMywTIQVcrALbjCYxpetHTaxHxw8J9EpnKvzMK9WZrQETfBxsPNV0Ng85gPxOQBcCZzOXionmd90b18DitGQ6uibpGLAL6NTXXdAS"
 }
