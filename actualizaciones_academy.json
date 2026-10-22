@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.6",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.6/academy.zip",
-    "sha256":  "141d921c976e375a1e01c01e0e5f51b6e216cdd2094725742b62f0d53981b124",
-    "size":  139120154,
-    "notes":  "Mejoras en consultas de Inicio, alertas y ventas; recuperación acotada de lecturas transitorias; recuperación ordenada de operaciones pendientes y correcciones de trazabilidad e instalación. Conserva referencias de cobros, autorización vigente y comprobaciones de controlador y TV.",
+    "version":  "3.8.7",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.7/academy.zip",
+    "sha256":  "515e9219686ff239b992959ec3c16dae5c8788b092d989bca506115e49e38815",
+    "size":  139129244,
+    "notes":  "Mejoras de recuperación segura de inscripciones, conservación del resultado de cobros confirmados, trazabilidad y diagnóstico de tiempos. Correcciones visuales de Ficha360 y notas de actualización.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-21T07:23:00.8245167Z",
+    "published_at":  "2026-10-22T18:02:29.9397825Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "aN08ffg6iNXzoAKHn9zCENp87LrIDKJhK2c5zmI/Ls1pxu9yW5KHCQ03LqMeKY+7iTBDwHavR4opQ0LixBHlISgg9oO1j9BnbM4PL2ywWBETe7E8Olr1AtSLy+c+57AyOmqalP4TFp79D/rwT4t6jEpi5FWtKSCPwgQtt3Bw6l3acWuiz8yXxJTIRN1mjMuQ7NxjEOCXD2oOsKYaTLqxMxhWScpFiry7uwCpsWncvZazr/hMlYHx30Qq1FKBSO7C/rf8/rAlQqr3bdd7e8h494DI1ptzCi8o5WubVmFSCrJZ5gnbPgF5ptK51sznImyi21oo0aeN7OVbgBRDXM7RzBK4z/YhWwdWPadroMM0N0D6XEOtY4AhsBfhjxwwoPMObHOmPqJyeBqTf7TfG8A4rwxfnyuRa2ctQeXi4fjZ9Q2PHhf8yFWsZEsEIcc4DHQ5S6e+6NaYrP8uQ5X8LO5BzltPoY+FonZ+Oj1dHP2F4ViY6PKY9p7cuKVsr0G8rtTo"
+    "signature":  "kXbwkHOFeJ6khEAwozVNdA2lmzNQR64kKoUpBGUlCi5+1a1YabaOmIuGzJq+Wxt7F7/Y6E9pVcQ/cs0o7+TbdScqeKzVa8OWaTl9CUA+jHm0uwfEiBrfSocINEFqhVXW7vfdWChsukClr3S4mROVldvz3dVmFzWK0kNUuzuAIlu0CDlvAsyBfXHebCwn3ET1Gc5DHG6kK0X1GrsLWUdTgtajBXpVWfVzQ6SNem/NS/A4EIt6wPTOj53HKq9dDvXnjGVp+7QFe1Ngc6gqjkdABVAU6HNI5VYfOYdUcvU0VgApcrMVJOJIFF1XXeP9p/qIQVgkjiWNqE3i3/Ntb05oAHmYhwmk699BbqMqaSx7iKdKwEn+YFiCCBAUapfdvC7ARb9wJWBhyvL2wbOkH5AjWxXm1i5nKzaT1OBgJ+vAw/iZtLAJkuly0WKKNAxFckzj71JPzIgEn+fXcKc19AzCjR/Sbw9Dhcxtk9lbAaEgatC9MCp8SKlhGy/w0q5Wdxd9"
 }
