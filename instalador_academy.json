@@ -2,15 +2,15 @@
     "schema":  "academy-installer-signature/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.7",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.7/AcademyPlatform_Setup_3.8.7_x64.exe",
-    "sha256":  "99af02d68daca52034bda0fa7407eaf2e2bee0428d872c605095c9a6bd8afd5d",
-    "size":  296026317,
+    "version":  "3.8.8",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.8/AcademyPlatform_Setup_3.8.8_x64.exe",
+    "sha256":  "c7749510ac7e40d856903f740025bb673a5c296f679dac927c31cc93c6acbf2e",
+    "size":  297019723,
     "notes":  "Bootstrap manual unico desde 3.4.19; desde 3.5.0 las actualizaciones son automaticas con un clic.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-22T18:02:29.9397825Z",
+    "published_at":  "2026-10-28T21:04:16.3531922Z",
     "package_format":  "academy-nsis-bootstrap-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "X5m7u4i5dNgBNauXVaXCRGVLYhz1ifS3H5k+CxMwWjh8sHr7xoaVDthWrpgnRo7Dc0uOnW4r4e3P6L/tdoDk2iKUTg5b/ylPxse+ULLsGelrKZNaYOifswnqK/IJcMefUajm6RBCMKLbzry1a1m2N15me/razNzR3fh3IxFzWtsBBYaBsGUlrx6EEALIqpEAK7p2NE/qGq3SQG85WzWVa0GqTCiFmeG/dcKTI+qoXLXIZCgGro7IpAQK3SdXAw39VMHqphetN4eLR4jveG0NC6MOIcMcexbarwGe5n5UXHkbpQAOZTAf2av9A3ndQe6kFOBXGmf+bUUYRN2K1pNx2NJmiV8B+wHIFMOJzvRNREaW70YpR1NdYWWbB0R03PJNxHUL62MHG1kpwhyDVOWEAVRmPrWAw4r2ATOKTJCQNNr+JGEajhlm/Ffbjtmi/iVtq6ycM4SLOQHAAYN4ZpBpiU/En3YbgQ35W1wVpEP7qN4SdKZyCaJhZh8EkxYhPBa2"
+    "signature":  "Q+peKGMGrU6rC+RtHed8SlV2kadVtzK1nxoECGsD3VgKr9cyRypukS5GgUkn5hPlnWX5glQNAZfqdueWkW4VKHSvy97IG1BoqTZmXooVTHCHN0gMNhvGtr6Mjlx5tro3qU6vD4MDZ28ug38GNlUTXqmWLOKnkCbKQIZuoUWroeW4apSlHYYatrGRn2MQ8CpR1IcFKb16R3wHUcZPseaByLX0LJDa0XZBSIgkEls7NQqgWdQ7b99MfakZj+20bYvF9LOEWVPCWBybZA6GbR1JNPrq/bY8Kr//7L4ASnxeKngPMB9XKKngh1X6mPPTawpYd3SjhyPLnrHV9kKdEV4MhEJfDwEyr9OUBp5iThnbrfTFoTV0Gb5YWSbb1ppT/VRIbjjxlfXLZOqkTCifxQrOKlcxQyzZuMtVE0GeJ0SoYQbfmItViLVGlHUjC846h5HQTF7mKiPm0Q5dM8zR7XK5T3PT6DerEFViIvgqW+SmCGV4/VQdSOXX6RNaUtjNlGUj"
 }
