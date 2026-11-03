@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.8",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.8/academy.zip",
-    "sha256":  "c043a9995a04915a4003149004ec59098bf0d1b2ccdebed823067f4f3e24a45b",
-    "size":  136962385,
-    "notes":  "Recuperación durable de transacciones y preservación de referencias; validación de autoridad, asistencia offline, controles de Owner y diagnóstico. Candidato local sujeto a validación de despliegue.",
+    "version":  "3.8.9",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.9/academy.zip",
+    "sha256":  "8a6afc06e45c6ee0e9c10bc39d3a8e94daf2ff107f5868ce003faa1c8753d910",
+    "size":  136967538,
+    "notes":  "Correcciones de recuperación y sincronización de operaciones con controlador. Candidato sujeto a pruebas del piloto y validación de despliegue.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-10-28T21:04:16.3531922Z",
+    "published_at":  "2026-11-03T18:34:27.3128553Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "MPUyCvmX6uAOEKPHT7voCDaNZCNbO9kJeoisHbSXM+B8Btrq5x6XfDIzskPLfPoS66CcsOUwEt2ryGhZ/RSqxoz0QZ/20KNmPlAD3tsBOYryaMDI9eCfM4l0cuxg7yc3Rs+q/1jMNOnTunz6Pfh0lB4rM9bAhQDVymjMCbAdhRW/sH+u8/cVTQDdhDqmn6Da18UoIGZBE1NQppCiKtnwwlkvvXNN1mbYUwK3T9nUUFHPSaJ9fHxhLKEGjivfbJoND5iPVv0bKW+zvub8ZcOeetZbfAxl/4aFXhX+yjFdcq+ownnrg/Rva3tq359QYynOg33ZAIMjJWYE5Nw9h669IQeS8cYoR5PbHqlupm/pE4FBUoAxTxzRt3cu/86gaOfAggzJtHh0+HK2mlvspGE2F7rJHqdRcT2PtgiyPS7semcwAmAxj1Yr0WAU3W6ESwwBK5ilYewNDEObfLAK+0m4B4BpbmQ3c3AWwQwJQQPkfrRdjdM0rB8RNXisClKFCb1d"
+    "signature":  "SP2spH7FIIFvEAb+mSutfezdRYX3UkDa2Rp9PULH4Z9m0a14YCAUCb2B3Zir4btbJ5fhVbBliqAO8b6nN7o6xyMDBT+63DW4IL5QH6fQCH+Oz9QggrMGX9yAjr4v5yrUuJailvPra1U00tiW+/TlSGfpyFmjp7/1m6Np+tydJAaPY3pZZFckwUiu74So4WegZVF54XgAQOH9Ax4qsUVmw3ZUkkIfXj26JqJRRsWjmTQMOxsXfRniIxhgjpXQgTKwqep149Nef5WLY7RQ9ZDHIte5ktgbnoH+sw/ienYsvxbica9F+k7TL/btZpTe5SN69ZfSMN1OZvDGP3waIgftwP+qvEmbS4uYKizuSNv34yOmYIpt2JFoMz53T6gL+kxWDbzQ1TMO2eOAUzXGfsuFtDI+7l7bdhFmLr5EIdKbfnF0VmCGWTRXycAJ8dupPtZ2T4V0fMOSnSDFU75dDZDAeLZ68bFoPWOvi3zF/BuzwNuGLXx8SfHZ6Ieb62rPEzp8"
 }
