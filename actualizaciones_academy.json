@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.9",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.9/academy.zip",
-    "sha256":  "8a6afc06e45c6ee0e9c10bc39d3a8e94daf2ff107f5868ce003faa1c8753d910",
-    "size":  136967538,
-    "notes":  "Correcciones de recuperación y sincronización de operaciones con controlador. Candidato sujeto a pruebas del piloto y validación de despliegue.",
+    "version":  "3.8.10",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.10/academy.zip",
+    "sha256":  "9c9e35e3a9f671fe758410cc8c5b98a8550657c3b679f6d4d9961fcd0ff736c3",
+    "size":  136969664,
+    "notes":  "Corrección de la configuración del controlador durante la instalación. Conservación del identificador al guardar el mismo contexto, validación de pertenencia al gateway y comprobación de identidad antes de finalizar la instalación.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-03T18:34:27.3128553Z",
+    "published_at":  "2026-11-04T05:54:21.3993598Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "SP2spH7FIIFvEAb+mSutfezdRYX3UkDa2Rp9PULH4Z9m0a14YCAUCb2B3Zir4btbJ5fhVbBliqAO8b6nN7o6xyMDBT+63DW4IL5QH6fQCH+Oz9QggrMGX9yAjr4v5yrUuJailvPra1U00tiW+/TlSGfpyFmjp7/1m6Np+tydJAaPY3pZZFckwUiu74So4WegZVF54XgAQOH9Ax4qsUVmw3ZUkkIfXj26JqJRRsWjmTQMOxsXfRniIxhgjpXQgTKwqep149Nef5WLY7RQ9ZDHIte5ktgbnoH+sw/ienYsvxbica9F+k7TL/btZpTe5SN69ZfSMN1OZvDGP3waIgftwP+qvEmbS4uYKizuSNv34yOmYIpt2JFoMz53T6gL+kxWDbzQ1TMO2eOAUzXGfsuFtDI+7l7bdhFmLr5EIdKbfnF0VmCGWTRXycAJ8dupPtZ2T4V0fMOSnSDFU75dDZDAeLZ68bFoPWOvi3zF/BuzwNuGLXx8SfHZ6Ieb62rPEzp8"
+    "signature":  "JsM7Bp/Eby9isjE16tj1PPXVTVSNly/5EEmgs1bR0V4a83QBsWikv67j0nbowfxxWGRmF+h+6pVG8EQ5/99t1vLFXHbiyaU3S5XuEK33M/fIP744bsoVeI9OZC78daiTyS2RMnU/1HkCxWkHoqZb3sNW+4JotF7m9hWkiPNbOYJ50Hif5ZeSq3GZF6xcpTeQdnySc9z6wds7TfpZWGsNxFfZUQiSwmgWil1hMan4or/aX8MBHrqUoz7P8UqTTKi38hsRUilxjzqGX0kcCy7kHqmvOGfzd3YE5CoGlmg86klEvPTWmrPpeu1Mfuw467H+3aukNlM66woBFpZDcb/UY1VjgYyQ6X1ZvVCFRmKS/er8Dxa3d1qb9CvWCEAruYRYUMjCBP181EdUpSxRjKrarIX3EkMqjXKu6y/fOh2WKaKWv3AR/bctC80mqlo23GSitNjdcHl4RA3jT1NF+EJes2g4U3mxeScw3VrQO+bXQxw2tLpTdBX45MWihQpfJ96n"
 }
