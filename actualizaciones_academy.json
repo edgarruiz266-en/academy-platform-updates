@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.11",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.11/academy.zip",
-    "sha256":  "ed836c941c76f9bd215571c057c0d0c477abb9957708a9acc41a05c4a48cd61c",
-    "size":  136972609,
-    "notes":  "Corrige la verificacion del controlador y mejora la recuperacion de operaciones pendientes.",
+    "version":  "3.8.12",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.12/academy.zip",
+    "sha256":  "28a54dcc7be2db5f91cf47908d545fdb8b21e55b30cf876f67bac3e68fb3903f",
+    "size":  136973459,
+    "notes":  "Corrige la habilitacion de ejecucion del controlador y su recuperacion, y habilita el mantenimiento de solo lectura. Los borrados y reconstrucciones quedan desactivados.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-05T09:47:46.7053509Z",
+    "published_at":  "2026-11-06T08:28:31.0095072Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "jba0BKcKT6RM5UFtxFw0L3LtbczubpVblEDGkeEkQJ3TYhuR34yEJAt0uaemCt15lddgiBnfhJl4BxH++hv4bx3BKHdb+/vJk+SSJjzEbhRE0Hn6OgislPoF89GMABrXNXKyCY8FrqyRwdgiCgmxM3EqBkzsEfDjHPwpBpCiIzNmbkXasqwE/fdZ8XcVmoJhSFxAjPlo16r4Qk57+ElTOYenKbg23pD9deq4HZdWizjey7ktpgGQeX0TYd8QK2PoVtOZ64fMFsh2jxFWwsXyRjaLUIGvcpJDSBi8w8ope0tuftSVtZ4/tzRjL5cZjG/xaNiHR7QCA/SdtPr8+67PGkF6nFf2GOpHsInA3HqnHngXmNHX7ULYVZ596TCTQu8kn3pApI73pDCzMcZdXtD79NZJBuqj7hA3MPdXOo7EHUcmSvf0T5h9iEtQzY497DA93JgBm/VwjGq0Ghrs/c8GjMsKnKcSK5+6wEptdeAwnJogQz8jQSzKHVzuwmwP/TU+"
+    "signature":  "vbDWP3uJc3kYtHpqGeThDCb2uCQ+WJJ7DVpA1hW4k/5YxDA1DSkk+YZbg/sJUcqieQVhBtLMnzGU67igGPjBe+91vqJwi8BwLqzKEGcZ6GkMYuBsKngitpEjImG+JpUPD5OGsxsZ7yA3wQTjUjL0gThUDzGoNyJ+3aBp+2RdsHostEDTNCzEt2LV+teGLjH570FCWwewNmBBEKJPzT+PG51j+TjwyZfbSwhXmPtJCxa+JXdTmOyj6PGl3OLvw9EpkOCH3Niw7DsrfrwWQHRq62rMXRakIx1sLTEgcHjY1DsSUKC5koHwfqYTXSS9ZPZsVggDfEyKI1hzZCM1w0rO5uyT73uGYrqm5vgBWt81U9iGfxb0TzCeX+G9AVTNUUkJNbYePsANhkhJWNTY1PGXketaqzSkhByDVLHIn6oqlzeOORc40mm7cZ2QjU4p5++WfgBDytfcdFpRB364tB+pl+d544Xzu/VD/8JcqT4P8BgRA8+90bCetxUpkZcrxuVj"
 }
