@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.13",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.13/academy.zip",
-    "sha256":  "067138eee24f1058dbba449a61db2946f8abc689c811d06f70873dd7dd262283",
-    "size":  136979751,
-    "notes":  "Corrige la identidad de sesion en limpieza, eliminacion y reposiciones del controlador, y acota la admision: una operacion fisica pendiente de verificar solo bloquea al mismo alumno o tarjeta.",
+    "version":  "3.8.14",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.14/academy.zip",
+    "sha256":  "5ff23ef7dd890b9a1e77a1aef4b6b2e607670ed126f06de9137544160067b0d5",
+    "size":  136979578,
+    "notes":  "Corrige la recuperacion de limpiezas y eliminaciones: los flujos forward comparan los objetivos del cable fisico, no el conjunto SQL de reservas, al consultar, cancelar o iniciar el controlador.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-09T17:38:55.6361428Z",
+    "published_at":  "2026-11-09T21:16:46.8216395Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "YH2vgDIaPWNwn1cv6GkR9l0uJmaLHgkrLz51BK+gZhL+0Q7Nm8fwQOvcjyMVjfLLN3c/1C0XvWHHOwBQjq8HKtqID+NVf6VJDjB27VHQYAnW6hVVHMDgX8+Ku961uvhECDLL6Y82+yAoBBV9ZoU1AXnJsYzFMfZe77nLOQw70BHFdlp5GzochGBeJiTLqn9S9wcSpc4DWs2O4tTeRlZbfj+Wmn/eF7WKMPJck+w1AfaXnq+Gkslr6Vi8pfOgHyP1Sj78/wuktpnBBzfdy69V0YWfz02W/4dLCAQuz0npS9NYeO739Qi4++0iGberVsJU21aDeDhMfr8rq+zIcrBApq7k0RVZ1LCQKWa8vI6hL94YyKxSG19ixaG2h091BG+LXe/RqHLCT2A1lJX8KRuJHMSAacJSkImDUpcvH2QTtdcRcjusFUAu6+qtn+eQubjmlS4/jUFjpI7og+F22IZbZjgbUXL4kf8oYcJos57lY1XLJqJC2wy9nTpOzrpgipvf"
+    "signature":  "jaiWxqfZlAkdbuYJ9PAFgWnFgrpvdoKqtYK92ofEmGIl/fo+mCSG1zaM7mCF6KLXJspfsBVUgUknLE1eDHdIqVgVHfNYYI8soo1Xcd55vmTKP8eu447aBQst7kfaRTY86gGfpZyeilsxnh7Vek9OCa32DuaHuNZMf7aFy7iijMBRUOZ+Ni170p/MYQmISBg9FFiAmW16pZBOS1vhe+b4YpjQMEJpJAUWoJbw0eVyIyU0eXgLQTeSSz6W81/9pRXbNvYfrBhs0FLdMVirvbb6TomYywX/CyZCrECbXCDIQDVbwEyM3+1doYVX3GHXtcLDWR4P688qRMHlabUlp+0+M5nXJWI/yc2QhaHjI3xk7K4X6di1ihdWHuOCmVQjIa8OyGQUvqaxIwbMkmc0B8/dMCs1uzfUhAsNGykGSvx3QxWdCJusgq1Z5DxCq1ZD6WtCisxdgiuEuYdtpYYIgQeD3VdWvR+uM493ef9yqWBcDTs7Wp5Wz/lD8rmbaeRm4hNT"
 }
