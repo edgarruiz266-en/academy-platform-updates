@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.14",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.14/academy.zip",
-    "sha256":  "5ff23ef7dd890b9a1e77a1aef4b6b2e607670ed126f06de9137544160067b0d5",
-    "size":  136979578,
-    "notes":  "Corrige la recuperacion de limpiezas y eliminaciones: los flujos forward comparan los objetivos del cable fisico, no el conjunto SQL de reservas, al consultar, cancelar o iniciar el controlador.",
+    "version":  "3.8.15",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.15/academy.zip",
+    "sha256":  "f22fc7e09b0760f896322a3fc70de91a8eb7d709eb16c279c7ae2d2f1afeaf2e",
+    "size":  136985006,
+    "notes":  "Avisos de carga claros y con porcentaje real en cobros, inscripciones, altas, reposiciones y eliminaciones; la pantalla de reposicion queda mas ordenada; al dar de baja una tarjeta o eliminar a un alumno se limpian sus tarjetas de la puerta.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-09T21:16:46.8216395Z",
+    "published_at":  "2026-11-11T16:12:01.8587216Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "jaiWxqfZlAkdbuYJ9PAFgWnFgrpvdoKqtYK92ofEmGIl/fo+mCSG1zaM7mCF6KLXJspfsBVUgUknLE1eDHdIqVgVHfNYYI8soo1Xcd55vmTKP8eu447aBQst7kfaRTY86gGfpZyeilsxnh7Vek9OCa32DuaHuNZMf7aFy7iijMBRUOZ+Ni170p/MYQmISBg9FFiAmW16pZBOS1vhe+b4YpjQMEJpJAUWoJbw0eVyIyU0eXgLQTeSSz6W81/9pRXbNvYfrBhs0FLdMVirvbb6TomYywX/CyZCrECbXCDIQDVbwEyM3+1doYVX3GHXtcLDWR4P688qRMHlabUlp+0+M5nXJWI/yc2QhaHjI3xk7K4X6di1ihdWHuOCmVQjIa8OyGQUvqaxIwbMkmc0B8/dMCs1uzfUhAsNGykGSvx3QxWdCJusgq1Z5DxCq1ZD6WtCisxdgiuEuYdtpYYIgQeD3VdWvR+uM493ef9yqWBcDTs7Wp5Wz/lD8rmbaeRm4hNT"
+    "signature":  "j7Xzy9+8yRn138agG07ySrXS6/rqXUCg4xpJ9xaFB+Eq+ljHMJ71ra28tQMJScqU34m4yL/vtY5wbI/7feoVJPzJwrDGeksMqFxmLiCpuhsfAOXLrByL/w67/mj9mTp96TcJn/m431eeNq5cdMeMp9ZQrDeBsFItfpV/uCYf7QbUhQcdFGBISFtly4EZoaOLWwubwjWqsEOW9fyw/yLj+pfgmHB/BsLWn3d8YDPHWjyxYQnWko3NNhoSruPlODiEvQF1iqpt/NSDJUy23+MwKXxakP1YNx3O45teobhrvm3B5xw4DrYW2Nn94/5wsIa/5D8cZal0yIZp7zWWtC0oEOWzMmps9P+pzggFP0TdUMfuUgHB74J4hq+OXd/OIE9vjOStKaJlbDURYEH8eST/fNrLizlplCaO5KgXGvP1086oWNti4PURb4pAWfpwtZfdZ8GJi+G2e/9KM+STtd8ps8HV1aJGbLiry27XqZ+OYDt8Rl8fyNS46ETA2vm8qjBq"
 }
