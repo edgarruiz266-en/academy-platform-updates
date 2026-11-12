@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.16",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.16/academy.zip",
-    "sha256":  "0b12e7c06ccc29e139e54cbb81a1815c0bed74d4eaecab9ecfa8a68cf8bce004",
-    "size":  137002824,
-    "notes":  "El control de acceso se habilita solo al instalar y en cada actualizacion, sin pasos manuales; una eliminacion de alumno que quedo a medias puede terminarse con Reintentar.",
+    "version":  "3.8.17",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.17/academy.zip",
+    "sha256":  "98310d50481b0f911676dae0ed19fc3617ed38bdf6e90277b7e9441621f6f530",
+    "size":  137004657,
+    "notes":  "El control de acceso se habilita solo en clientes nuevos y tras cada actualizacion, tambien mientras el equipo sincroniza, sin pasos manuales.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-12T04:42:39.7154999Z",
+    "published_at":  "2026-11-12T15:57:49.1494403Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "RAEYVYkOKr3bsaVS5LxKQHszhgwjdM365g08xHo50BgfIuJ5fRBZtpST8vOvzygbkVtzsQHRoRyoDx2dDbFcsNskP3ZAeh9rq7ujguW0MfVKQnbJiclM0QCEgwXrfq1TDHCFqtG7EMCjmI6QhthHCGNqi9w4hUXhxNS9qnMspE+VntXZAk4iqEnvNSqNfTkzURWKO/I5By0+ga8lKIUmq85kJGjlA8OICfwCnKryl86MUUYw8MVIldZe2RSIXghbQJkWvG9HY46Mr7BFMbMN5WE69aapvDQdEQ40T0R4/gOeElLPe8kBMMv4ibCPnlCA/2XAOEJsZmWiYc6dRQ95YvflJVRMONe4Z8Kl8z9zXrEiuBFadJUVb3WBzOFJ25AwGD1khsAaaLoktqRW485dqaajwrSO3FsmclU18ZtkPJ7ZiFaWDBT0EtQLhxTGDn2RNuECtOATkGtNHJv0u3pTAierI+A7eCgYZGCU5JkiIgiyGwhcu8/uU4Wh3PI3SBlZ"
+    "signature":  "mLLp7E8Lnmx6tev0stLLSyhB2aAVa1XA5OZH60M5oKWVmI7IoaV+Hljq8ohbES0XpGX8SZ3cZshLWkLy4Jd5VwyO5Gqw7JpKKDRbaC33E6J48oMA+lSRF95kYYkluDeQdbB+yCshiABLhR5DcssfqzcZrUGBEdQ8vaKryhBduMceeuQqsrUeDGf/1DuAXtvzVGUVwNR6gxMfIoDdmYKYf8giGiy51bAaa+NBrGkgFBOgA/KTXgiRVQ5EK3pVcFguJPixyxyEWGzrO+Dn55YMuUiYgudJuXMrCz7KsHL+qlCU1dQGCMQIzSei+BAHAIal0zVAnn04N+FeXgTJankzi8MvouX442mmWmLTa7d1ESA8ORdQ+2LjKvnbB60Vah8Su5Opkd6lZBBqoKiVuFcTjRNu+ns5HJ32ivB48PnKqh5gpl7G3vJt0iE9ZJe5F2aNvUPSWvJU/oUdSX0rneSY4XlKp3DUJJNkhUlI4mP17TyUzVAKwgZvlhariKo0gGzy"
 }
