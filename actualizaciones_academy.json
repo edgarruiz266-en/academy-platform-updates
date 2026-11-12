@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.15",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.15/academy.zip",
-    "sha256":  "f22fc7e09b0760f896322a3fc70de91a8eb7d709eb16c279c7ae2d2f1afeaf2e",
-    "size":  136985006,
-    "notes":  "Avisos de carga claros y con porcentaje real en cobros, inscripciones, altas, reposiciones y eliminaciones; la pantalla de reposicion queda mas ordenada; al dar de baja una tarjeta o eliminar a un alumno se limpian sus tarjetas de la puerta.",
+    "version":  "3.8.16",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.16/academy.zip",
+    "sha256":  "0b12e7c06ccc29e139e54cbb81a1815c0bed74d4eaecab9ecfa8a68cf8bce004",
+    "size":  137002824,
+    "notes":  "El control de acceso se habilita solo al instalar y en cada actualizacion, sin pasos manuales; una eliminacion de alumno que quedo a medias puede terminarse con Reintentar.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-11T16:12:01.8587216Z",
+    "published_at":  "2026-11-12T04:42:39.7154999Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "j7Xzy9+8yRn138agG07ySrXS6/rqXUCg4xpJ9xaFB+Eq+ljHMJ71ra28tQMJScqU34m4yL/vtY5wbI/7feoVJPzJwrDGeksMqFxmLiCpuhsfAOXLrByL/w67/mj9mTp96TcJn/m431eeNq5cdMeMp9ZQrDeBsFItfpV/uCYf7QbUhQcdFGBISFtly4EZoaOLWwubwjWqsEOW9fyw/yLj+pfgmHB/BsLWn3d8YDPHWjyxYQnWko3NNhoSruPlODiEvQF1iqpt/NSDJUy23+MwKXxakP1YNx3O45teobhrvm3B5xw4DrYW2Nn94/5wsIa/5D8cZal0yIZp7zWWtC0oEOWzMmps9P+pzggFP0TdUMfuUgHB74J4hq+OXd/OIE9vjOStKaJlbDURYEH8eST/fNrLizlplCaO5KgXGvP1086oWNti4PURb4pAWfpwtZfdZ8GJi+G2e/9KM+STtd8ps8HV1aJGbLiry27XqZ+OYDt8Rl8fyNS46ETA2vm8qjBq"
+    "signature":  "RAEYVYkOKr3bsaVS5LxKQHszhgwjdM365g08xHo50BgfIuJ5fRBZtpST8vOvzygbkVtzsQHRoRyoDx2dDbFcsNskP3ZAeh9rq7ujguW0MfVKQnbJiclM0QCEgwXrfq1TDHCFqtG7EMCjmI6QhthHCGNqi9w4hUXhxNS9qnMspE+VntXZAk4iqEnvNSqNfTkzURWKO/I5By0+ga8lKIUmq85kJGjlA8OICfwCnKryl86MUUYw8MVIldZe2RSIXghbQJkWvG9HY46Mr7BFMbMN5WE69aapvDQdEQ40T0R4/gOeElLPe8kBMMv4ibCPnlCA/2XAOEJsZmWiYc6dRQ95YvflJVRMONe4Z8Kl8z9zXrEiuBFadJUVb3WBzOFJ25AwGD1khsAaaLoktqRW485dqaajwrSO3FsmclU18ZtkPJ7ZiFaWDBT0EtQLhxTGDn2RNuECtOATkGtNHJv0u3pTAierI+A7eCgYZGCU5JkiIgiyGwhcu8/uU4Wh3PI3SBlZ"
 }
