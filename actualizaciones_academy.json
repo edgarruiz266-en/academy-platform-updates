@@ -2,15 +2,15 @@
     "schema":  "academy-update/v1",
     "product":  "academy-platform",
     "channel":  "stable",
-    "version":  "3.8.18",
-    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.18/academy.zip",
-    "sha256":  "3e3bbd70d54549f7b8968a6491d0b6d17e3637d5a79666574065de693bc320f5",
-    "size":  137011201,
-    "notes":  "Una baja o limpieza de tarjeta que queda a medias ya no detiene los cobros de otros alumnos y se termina con Reintentar desde su pantalla. Un tropiezo pasajero con el controlador se reintenta solo.",
+    "version":  "3.8.19",
+    "url":  "https://github.com/edgarruiz266-en/academy-platform-updates/releases/download/v3.8.19/academy.zip",
+    "sha256":  "6f7d6a31cd52e759c8ece70142720afbaa27f82aebf516a85d4b0a1acb15ad00",
+    "size":  137002738,
+    "notes":  "Office vuelve a pedir confirmacion antes de cobrar, dar de baja, reponer o eliminar, y espera la respuesta. Mientras una baja o reposicion sigue en curso ya no aparece el aviso de pendiente.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-11-21T08:11:09.6124060Z",
+    "published_at":  "2026-11-22T01:34:36.9459364Z",
     "package_format":  "academy-update-zip-v1",
     "key_id":  "be9dac3e22580575eed32e4b1dad68d547b60ae77e113f337b0b99cabe351d6f",
-    "signature":  "obvHrSA+FsWQIs1limv5KPNK+ec11V1W0528179vTPhdSh0uT4MYw51daKGeSzG7Evd9goK3kLQ+T54ukX6aygcVgad7Vv31/vb1TtwOTZ+KQqGW3CRpTfNtutf/pD0uGQlqnN3y1c43U4DJyliTVWz7+7qoIgABokgjDVRwkK9otMKTcXhkLq33qoP5JePtt8toZP/b6biiYuZS9SRLaHQdvTYRzcdjo1uvZJQt3DqEH49vxklYu+IKB5GVVlElrksInm7Aw07/BmvSzvwLGCaCepzS0ZBfLXol2+CG76fHr/WAGQC+FRScEMCrKEu/J3zlPSBYVcJrJslGoNyYNYsd1qdunRLLJDgNjGKry9UpB0+/147vcnnIoXwz1tMUdsq9RKngMn3KobQnSoecxgF/bBmkPPf5HwhtO8Ew48Z/9WA7cUt+vIxO0wFlG7d5nkN+zNL8mO6fUERyjFYL7LNk0sYeIYuyKCU5jOYuSWoGarL6PK97Rc3ypzbQYjsP"
+    "signature":  "Q+EhhI5LLf3PiruYobgiUJ/GnW9Ktb4WP7wYvIr+odo4F+VLlJutPVKovctq7tCERORH582mIdsu+2ZED9nkz0rz4luXvDmv4d5CF8SBz08gBk/SwzafPcwbs3qsWBWhmgOpJbdcyA55y7KyA3zWe3ATYOvwDkjVab37jkVBxsOhmF1HThoUKgyxRfVaVsa4Lae6NDcjvkl205Xis0dFZCFoagtIbVdN3TMd+YTjO8qU0NSQUAuVHGLg4cELve8+LP9qnUsqNwAKRQjgZpyiq2xO8//DmTE7pOgnUuka4SU3OlRYEb7q/aREyy7+oJ92Bere3vyerWsMZQ9Sr5d6WdyXbAhnb8zFKZ6HNM6ax+BQ4BNjnkhEs1BdEbhlYlqz3bWiFuld0NOdszL2TFyY6yYSC2Dj0Sa5gRRqRHF1sDkb4Pib2dGHCGtK7j0bwq/ZGLTv1+9JGMHetLS6hfBMxZKvUk6oOGGF888dOetLWLfvZI4tFb32jY685kNQI6+H"
 }
